@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-09-28",
+  "purpose": "Operational manifest for the UPSC-RAG corpus.",
+  "layers": {
+    "taxonomy": {
+      "path": "taxonomy/master_index.json",
+      "status": "READY"
+    },
+    "source_of_knowledge": {
+      "path": "sources/source_of_knowledge.json",
+      "status": "READY"
+    },
+    "source_of_truth": {
+      "path": "sources/source_registry.json",
+      "status": "READY_WITH_VERIFICATION_QUEUE"
+    },
+    "unresolved_sources": {
+      "path": "sources/unresolved_sources.json",
+      "status": "ACTIVE_QUEUE"
+    },
+    "pyq_papers": {
+      "path": "pyqs/paper_index.json",
+      "status": "READY_2023_2026_PAPER_LEVEL"
+    },
+    "pyq_questions": {
+      "path": "pyqs/questions/",
+      "status": "PENDING_OFFICIAL_PDF_INGESTION"
+    },
+    "current_affairs": {
+      "path": "current_affairs/",
+      "status": "READY_FOR_INGESTION_FROM_MAY_2026"
+    },
+    "relations": {
+      "path": "relations/",
+      "status": "READY_FOR_LIGHTWEIGHT_RELATIONS"
+    },
+    "schemas": {
+      "path": "schema/",
+      "status": "READY"
+    },
+    "retrieval_protocol": {
+      "path": "docs/retrieval_protocol.md",
+      "status": "READY"
+    }
+  },
+  "completion_gate": [
+    "Every final Source-of-Truth claim has document/page provenance.",
+    "Question-level PYQs are traceable to official UPSC papers.",
+    "Current affairs are syllabus-linked and source-verified.",
+    "Retrieval returns evidence before interpretation.",
+    "Conflicts and uncertainty are explicit."
+  ]
+}
