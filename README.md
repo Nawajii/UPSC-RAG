@@ -75,14 +75,17 @@ The repository is intentionally small. It should help Nawaz prepare for CSE 2027
 
 ## Operational status — 2026-09-28
 
-The repository is now an operational retrieval specification, not just a registry.
+The repository is now an operational UPSC retrieval system with structured source routing, verified source anchors, current-affairs records, PYQ provenance, acceptance tests and offline integrity validation.
 
 - Source-of-Truth registry: 175 institutions / 875 source-family records
 - Source verification is explicitly split into institution, source-page and content levels
 - Unresolved verification queue: sources/unresolved_sources.json
 - Source-of-Knowledge registry is separated from Source-of-Truth
 - PYQ paper provenance: 2023–2026, 36 paper records
-- Current-affairs schema: active from May 2026
+- Current-affairs corpus: 10 primary-source-verified records from May 2026 onward, with an active ingestion protocol
+- Verified Source-of-Truth baseline: docs/source_verification_baseline.json
+- Retrieval acceptance tests: tests/retrieval_cases.json
+- Offline validator: scripts/validate_corpus.py
 - Retrieval protocol: docs/retrieval_protocol.md
 - Corpus manifest: manifests/corpus_manifest.json
 
