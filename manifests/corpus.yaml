@@ -1,0 +1,32 @@
+version: "2026-09-28"
+owner: "Nawajii"
+exam: "UPSC CSE 2027"
+
+storage:
+  github:
+    role: "structured knowledge, metadata, indexes, manifests, code"
+  chatgpt_project:
+    role: "large source documents, books, PDFs, reference material"
+
+formal_current_affairs_start: "2026-05-01"
+
+retrieval_strategy:
+  initial:
+    - structured_metadata
+    - exact_search
+    - full_text_search
+    - syllabus_filtering
+    - relationship_filtering
+  deferred:
+    - embeddings
+    - vector_database
+    - paid_external_apis
+
+status_definitions:
+  VERIFIED: "Authoritatively supported and sufficiently current for the record's intended use."
+  PROVISIONAL: "Useful but requires stronger verification."
+  CONFLICTING: "Material sources disagree; disagreement is preserved."
+  OUTDATED: "Previously valid but no longer current."
+  REQUIRES_REVIEW: "Important uncertainty or integrity issue needs review."
+
+maintenance_principle: "Earn complexity; do not engineer ahead of demonstrated need."
