@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "generated": "2026-09-28",
   "purpose": "Operational manifest for the UPSC-RAG corpus.",
   "layers": {
@@ -10,6 +10,12 @@
     "source_of_knowledge": {
       "path": "sources/source_of_knowledge.json",
       "status": "READY"
+    },
+    "knowledge_library": {
+      "path": "library/",
+      "status": "CATALOGUE_READY_OPEN_CORPUS_PROGRESSIVE_INGESTION",
+      "catalog": "library/catalog.json",
+      "note": "Official/open material is indexed for ingestion; commercial copyrighted books require legitimate user-supplied copies."
     },
     "source_of_truth": {
       "path": "sources/source_registry.json",
@@ -65,13 +71,13 @@
     },
     "official_materials": {
       "path": "materials/official_materials.json",
-      "status": "READY",
-      "note": "Official syllabus provenance plus legal/free study-material anchors."
+      "status": "READY"
     }
   },
   "completion_gate": [
     "Repository architecture and schemas are operational.",
     "Official syllabus provenance and operational taxonomy are present.",
+    "Knowledge library catalogue is present and separates open/official material from commercial user-supplied books.",
     "Official CSE paper-level PYQ provenance is verified for 2016-2026.",
     "Question-level PYQ text still requires official PDFs or legitimately supplied copies for lawful processing.",
     "Current affairs from May 2026 are retained only when syllabus-linked and primary-source verified.",
