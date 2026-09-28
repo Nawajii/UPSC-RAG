@@ -183,11 +183,192 @@
       "syllabus_id": "optional.economics.paper2",
       "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
       "status": "VERIFIED"
+    },
+    {
+      "stage": "Prelims",
+      "paper": "GS-I",
+      "title": "General Studies Paper - I",
+      "syllabus_id": "prelims.gs1",
+      "year": "2024",
+      "id": "pyq-2024-pre-gs-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Prelims",
+      "paper": "CSAT",
+      "title": "General Studies Paper - II",
+      "syllabus_id": "prelims.csat",
+      "year": "2024",
+      "id": "pyq-2024-pre-csat",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-I",
+      "title": "General Studies Paper - I",
+      "syllabus_id": "mains.gs1",
+      "year": "2024",
+      "id": "pyq-2024-main-gs-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-II",
+      "title": "General Studies Paper - II",
+      "syllabus_id": "mains.gs2",
+      "year": "2024",
+      "id": "pyq-2024-main-gs-ii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-III",
+      "title": "General Studies Paper - III",
+      "syllabus_id": "mains.gs3",
+      "year": "2024",
+      "id": "pyq-2024-main-gs-iii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-IV",
+      "title": "General Studies Paper - IV",
+      "syllabus_id": "mains.gs4",
+      "year": "2024",
+      "id": "pyq-2024-main-gs-iv",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Essay",
+      "title": "Essay",
+      "syllabus_id": "mains.essay",
+      "year": "2024",
+      "id": "pyq-2024-main-essay",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Economics-I",
+      "title": "Economics Paper - I",
+      "syllabus_id": "optional.economics.paper1",
+      "year": "2024",
+      "id": "pyq-2024-main-economics-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Economics-II",
+      "title": "Economics Paper - II",
+      "syllabus_id": "optional.economics.paper2",
+      "year": "2024",
+      "id": "pyq-2024-main-economics-ii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Prelims",
+      "paper": "GS-I",
+      "title": "General Studies Paper - I",
+      "syllabus_id": "prelims.gs1",
+      "year": "2023",
+      "id": "pyq-2023-pre-gs-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Prelims",
+      "paper": "CSAT",
+      "title": "General Studies Paper - II",
+      "syllabus_id": "prelims.csat",
+      "year": "2023",
+      "id": "pyq-2023-pre-csat",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-I",
+      "title": "General Studies Paper - I",
+      "syllabus_id": "mains.gs1",
+      "year": "2023",
+      "id": "pyq-2023-main-gs-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-II",
+      "title": "General Studies Paper - II",
+      "syllabus_id": "mains.gs2",
+      "year": "2023",
+      "id": "pyq-2023-main-gs-ii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-III",
+      "title": "General Studies Paper - III",
+      "syllabus_id": "mains.gs3",
+      "year": "2023",
+      "id": "pyq-2023-main-gs-iii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "GS-IV",
+      "title": "General Studies Paper - IV",
+      "syllabus_id": "mains.gs4",
+      "year": "2023",
+      "id": "pyq-2023-main-gs-iv",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Essay",
+      "title": "Essay",
+      "syllabus_id": "mains.essay",
+      "year": "2023",
+      "id": "pyq-2023-main-essay",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Economics-I",
+      "title": "Economics Paper - I",
+      "syllabus_id": "optional.economics.paper1",
+      "year": "2023",
+      "id": "pyq-2023-main-economics-i",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
+    },
+    {
+      "stage": "Mains",
+      "paper": "Economics-II",
+      "title": "Economics Paper - II",
+      "syllabus_id": "optional.economics.paper2",
+      "year": "2023",
+      "id": "pyq-2023-main-economics-ii",
+      "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "status": "VERIFIED"
     }
   ],
   "notes": [
     "Paper-level provenance is verified against the official UPSC previous-question-paper index.",
     "Question-level text is intentionally absent until official PDFs are supplied for lawful processing.",
-    "IDs are globally unique by year + stage + paper."
+    "IDs are globally unique by year + stage + paper.",
+    "2024 and 2023 paper-level entries added from the official UPSC previous-question-paper index/archive."
   ]
 }
