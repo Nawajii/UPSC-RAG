@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "record_type": "verified_pyq",
+  "required_fields": {
+    "id": "string",
+    "year": "integer",
+    "stage": "Prelims|Mains",
+    "paper": "string",
+    "question_number": "integer",
+    "question": "string",
+    "marks": "integer|null",
+    "syllabus_id": "string",
+    "subtopic": "string",
+    "concept_tested": "string",
+    "question_type": "string",
+    "analytical_difficulty": "our classification",
+    "source_of_knowledge": "array|string|null",
+    "source_of_truth": "array|string|null",
+    "recurring_theme": "array|string|null",
+    "current_affairs_connection": "array|string|null",
+    "official_provenance": "string",
+    "status": "VERIFIED|PROVISIONAL|CONFLICTING|OUTDATED|REQUIRES_REVIEW"
+  },
+  "provenance_rule": "Official UPSC paper URL is mandatory. Analytical metadata must be distinguishable from UPSC-provided metadata."
+}
