@@ -1,0 +1,17 @@
+{
+  "source_id": "SRC-UPSC-2026-NOTIFICATION",
+  "authority": "UPSC",
+  "tier": 1,
+  "type": "official_notification",
+  "title": "Civil Services Examination 2026 — Examination Notice No. 05/2026-CSE",
+  "url": "https://www.upsc.gov.in/sites/default/files/Notif-CSP-2026-Engl-060226Rev.pdf",
+  "retrieved": "2026-09-28",
+  "status": "VERIFIED",
+  "scope": [
+    "scheme",
+    "prelims_syllabus",
+    "mains_syllabus",
+    "economics_optional_syllabus"
+  ],
+  "note": "2026 official baseline. Replace/diff when CSE 2027 notification is published."
+}
