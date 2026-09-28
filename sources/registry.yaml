@@ -1,0 +1,96 @@
+version: "2026-09-28"
+source_hierarchy:
+  tier_1:
+    - UPSC
+    - Constitution_of_India
+    - Acts_and_Rules
+    - Supreme_Court
+    - Government_of_India
+    - RBI
+    - Economic_Survey
+    - Union_Budget
+    - Parliament
+    - NITI_Aayog
+    - MoSPI
+    - official_international_organisations
+  tier_2:
+    - NCERT
+    - Laxmikanth
+    - Spectrum
+    - GC_Leong
+    - Ramesh_Singh
+    - Ahuja
+    - IGNOU
+  tier_3:
+    - recognised_academic_sources
+    - university_material
+    - research_papers
+    - reputable_open_educational_resources
+  tier_4:
+    - The_Hindu
+    - Indian_Express
+    - Business_Standard
+    - Down_To_Earth
+    - other_reputable_journalism
+
+sources:
+  - id: upsc
+    name: "Union Public Service Commission"
+    tier: 1
+    role: "exam authority and official syllabus/PYQ source"
+    url: "https://www.upsc.gov.in/"
+    verification: "primary"
+  - id: upsc_cse_main_2026
+    name: "Civil Services (Main) Examination, 2026"
+    tier: 1
+    role: "current official CSE examination/syllabus and paper source"
+    url: "https://www.upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination%2C%202026"
+    verification: "primary"
+    accessed: "2026-09-28"
+  - id: upsc_previous_question_papers
+    name: "UPSC Previous Year Question Papers"
+    tier: 1
+    role: "official PYQ repository"
+    url: "https://www.upsc.gov.in/examinations/previous-question-papers"
+    verification: "primary"
+    accessed: "2026-09-28"
+  - constitution_of_india
+    name: "Constitution of India"
+    tier: 1
+    role: "constitutional source of truth"
+  - reserve_bank_of_india
+    name: "Reserve Bank of India"
+    tier: 1
+    role: "monetary policy, banking and financial-system source of truth"
+    url: "https://www.rbi.org.in/"
+    verification: "primary"
+  - ministry_of_finance
+    name: "Ministry of Finance, Government of India"
+    tier: 1
+    role: "budget, taxation and public-finance source of truth"
+    url: "https://www.finmin.gov.in/"
+    verification: "primary"
+  - niti_aayog
+    name: "NITI Aayog"
+    tier: 1
+    role: "policy and development source"
+    url: "https://www.niti.gov.in/"
+    verification: "primary"
+  - mospi
+    name: "Ministry of Statistics and Programme Implementation"
+    tier: 1
+    role: "official statistics source"
+    url: "https://www.mospi.gov.in/"
+    verification: "primary"
+  - parliament_of_india
+    name: "Parliament of India"
+    tier: 1
+    role: "parliamentary documents and legislative context"
+    url: "https://sansad.in/"
+    verification: "primary"
+  - prsl_legislative_research
+    name: "PRS Legislative Research"
+    tier: 2
+    role: "legislative analysis and discovery/context"
+    url: "https://prsindia.org/"
+    verification: "secondary"
