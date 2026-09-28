@@ -72,3 +72,39 @@ No paid vector database, cloud server, embedding API, LLM API or scraping servic
 ## Scope
 
 The repository is intentionally small. It should help Nawaz prepare for CSE 2027, not become a separate RAG engineering project.
+
+## Operational status — 2026-09-28
+
+The repository is now an operational retrieval specification, not just a registry.
+
+- Source-of-Truth registry: 175 institutions / 875 source-family records
+- Source verification is explicitly split into institution, source-page and content levels
+- Unresolved verification queue: sources/unresolved_sources.json
+- Source-of-Knowledge registry is separated from Source-of-Truth
+- PYQ paper provenance: 2023–2026, 36 paper records
+- Current-affairs schema: active from May 2026
+- Retrieval protocol: docs/retrieval_protocol.md
+- Corpus manifest: manifests/corpus_manifest.json
+
+### What makes it usable
+
+A UPSC query is resolved through this chain:
+
+Syllabus → Knowledge → Verified Truth → PYQs → Current Affairs → Output mode
+
+The system prefers the smallest authoritative evidence set sufficient to answer the question. It does not treat an institution's domain as proof of a specific document or claim.
+
+### Official anchors
+
+- UPSC Previous Question Papers: https://www.upsc.gov.in/examinations/previous-question-papers
+- Integrated Government Online Directory: https://igod.gov.in/
+- UPSC CSE 2026 notification: https://www.upsc.gov.in/sites/default/files/Notif-CSP-2026-Engl-060226Rev.pdf
+
+## Current completion gates
+
+1. Verify specific Source-of-Truth documents/pages.
+2. Ingest question-level PYQs from official papers supplied/available for lawful processing.
+3. Populate syllabus-linked current affairs from May 2026 onward.
+4. Validate retrieval against representative UPSC queries.
+
+No vector database or paid infrastructure is required for these gates.
