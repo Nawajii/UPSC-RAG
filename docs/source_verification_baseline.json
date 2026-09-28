@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-09-28",
+  "purpose": "Document-level verification anchors for high-value UPSC Source-of-Truth families.",
+  "status": "VERIFIED_BASELINE",
+  "anchors": [
+    {"id":"anchor-upsc-pyq-index","institution":"UPSC","family":"reports","url":"https://www.upsc.gov.in/examinations/previous-question-papers","evidence":"Official UPSC previous-question-paper index; 2026 Prelims and Mains papers are listed.","verified_on":"2026-09-28"},
+    {"id":"anchor-upsc-prelims-2026","institution":"UPSC","family":"current_updates","url":"https://www.upsc.gov.in/examinations/Civil%20Services%20%28Preliminary%29%20Examination%2C%202026","evidence":"Official CSE Prelims 2026 page; question papers uploaded 25 May 2026.","verified_on":"2026-09-28"},
+    {"id":"anchor-upsc-mains-2026","institution":"UPSC","family":"current_updates","url":"https://www.upsc.gov.in/examinations/Civil%20Services%20%28Main%29%20Examination%2C%202026","evidence":"Official CSE Mains 2026 page with question-paper documents.","verified_on":"2026-09-28"},
+    {"id":"anchor-igod","institution":"Integrated Government Online Directory","family":"reports","url":"https://igod.gov.in/","evidence":"Official Government of India directory maintained by NIC and intended as a comprehensive, accurate and reliable directory of government websites.","verified_on":"2026-09-28"},
+    {"id":"anchor-budget-2026","institution":"Ministry of Finance","family":"reports","url":"https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2026.pdf","evidence":"Official Budget 2026-27 document index covering AFS, Demands for Grants, Finance Bill, FRBM statements and supporting documents.","verified_on":"2026-09-28"},
+    {"id":"anchor-budget-speech-2026","institution":"Ministry of Finance","family":"current_updates","url":"https://www.indiabudget.gov.in/doc/budget_speech.pdf","evidence":"Official Union Budget 2026-27 speech.","verified_on":"2026-09-28"},
+    {"id":"anchor-niti-reports-2026","institution":"NITI Aayog","family":"reports","url":"https://www.niti.gov.in/publications/division-reports","evidence":"Official NITI Aayog division-report index includes 2026 reports including Trade Watch Q1 FY27 and India Electric Mobility Index 2025.","verified_on":"2026-09-28"},
+    {"id":"anchor-pib-sept-2026","institution":"Press Information Bureau","family":"current_updates","url":"https://www.pib.gov.in/","evidence":"Official Government of India release platform with dated September 2026 policy/programme releases and backgrounders.","verified_on":"2026-09-28"}
+  ],
+  "rule":"Only exact anchors are promoted to document/page verified. Generic registry records remain subject to claim-level verification at retrieval time."
+}
