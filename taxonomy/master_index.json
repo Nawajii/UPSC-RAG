@@ -621,6 +621,29 @@
           "name": "Case Studies"
         }
       ]
+    },
+    "qualifying_papers": {
+      "indian_language": {
+        "id": "mains.qualifying.indian_language",
+        "name": "Indian Language",
+        "subtopics": [
+          "Comprehension",
+          "Precis writing",
+          "Usage and vocabulary",
+          "Short essays",
+          "Translation"
+        ]
+      },
+      "english": {
+        "id": "mains.qualifying.english",
+        "name": "English",
+        "subtopics": [
+          "Comprehension",
+          "Precis writing",
+          "Usage and vocabulary",
+          "Short essays"
+        ]
+      }
     }
   },
   "economics_optional": {
@@ -839,5 +862,28 @@
         }
       ]
     }
+  },
+  "interview": {
+    "id": "interview",
+    "name": "Interview / Personality Test",
+    "subtopics": [
+      "General interest",
+      "Mental alertness",
+      "Critical powers of assimilation",
+      "Clear and logical exposition",
+      "Balance of judgement",
+      "Variety and depth of interest",
+      "Social cohesion",
+      "Leadership",
+      "Intellectual integrity",
+      "Moral integrity",
+      "Current affairs"
+    ]
+  },
+  "master_index_rules": {
+    "syllabus_is_master_taxonomy": true,
+    "source_text_is_official_2026_notice": true,
+    "2027_update_required": true,
+    "taxonomy_granularity": "Syllabus-line → UPSC-relevant subtopic; deeper PYQ concepts attach below these nodes."
   }
 }
