@@ -24,12 +24,14 @@
     },
     "pyq_papers": {
       "path": "pyqs/paper_index.json",
-      "status": "READY_2023_2026_PAPER_LEVEL"
+      "status": "READY_2016_2026_PAPER_LEVEL",
+      "coverage": "2016-2026",
+      "papers": 99
     },
     "pyq_questions": {
       "path": "pyqs/questions/",
-      "status": "EXTERNAL_OFFICIAL_PDF_REQUIRED",
-      "reason": "Public repository does not redistribute full official question-paper text; exact question-level records require official PDFs supplied/lawfully processed."
+      "status": "OFFICIAL_PDF_REQUIRED_FOR_QUESTION_LEVEL",
+      "reason": "Question-level text is not copied into the public repository; use official UPSC PDFs or legitimately supplied copies for processing."
     },
     "current_affairs": {
       "path": "current_affairs/",
@@ -60,13 +62,18 @@
     "validation": {
       "path": "scripts/validate_corpus.py",
       "status": "READY_OFFLINE"
+    },
+    "official_materials": {
+      "path": "materials/official_materials.json",
+      "status": "READY",
+      "note": "Official syllabus provenance plus legal/free study-material anchors."
     }
   },
   "completion_gate": [
     "Repository architecture and schemas are operational.",
-    "High-value Source-of-Truth document/page anchors are verified.",
-    "Paper-level PYQ provenance is verified for 2023-2026.",
-    "Question-level PYQ text is external to the public repository until official PDFs are supplied/lawfully processed.",
+    "Official syllabus provenance and operational taxonomy are present.",
+    "Official CSE paper-level PYQ provenance is verified for 2016-2026.",
+    "Question-level PYQ text still requires official PDFs or legitimately supplied copies for lawful processing.",
     "Current affairs from May 2026 are retained only when syllabus-linked and primary-source verified.",
     "Representative retrieval acceptance cases are defined.",
     "Offline integrity validation is available.",
