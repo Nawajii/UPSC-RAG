@@ -47,6 +47,183 @@
       "status": "VERIFIED",
       "last_verified": "2026-09-28",
       "official_source": "https://m.rbi.org.in/scripts/BS_SpeechesView.aspx?Id=104"
+    },
+    {
+      "id": "ca-2026-09-epfo-wage-ceiling",
+      "date": "2026-09-16",
+      "title": "Cabinet approves enhancement of EPFO wage ceiling",
+      "summary": "PIB reported a Union Cabinet decision to raise the EPFO wage ceiling from Rs.15,000 to Rs.25,000 per month, expanding mandatory coverage.",
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs2.social_justice",
+        "mains.gs3.economy"
+      ],
+      "primary_source_ids": [
+        "SRC-MINISTRY-OF-LABOUR-AND-EMPLOYMENT-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "EPFO and social-security coverage.",
+      "mains_relevance": "Formalisation, social security and labour-market policy.",
+      "optional_relevance": "Labour economics and employment policy.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.pib.gov.in/newsite/pmreleases.aspx?lang=1&mincode=21&reg=3"
+    },
+    {
+      "id": "ca-2026-09-rail-multitracking",
+      "date": "2026-09-09",
+      "title": "Railway multitracking project approvals",
+      "summary": "PIB reported Cabinet Committee on Economic Affairs approvals for multiple railway multitracking projects covering districts across several states.",
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs3.infrastructure",
+        "mains.gs3.economy"
+      ],
+      "primary_source_ids": [
+        "SRC-MINISTRY-OF-RAILWAYS-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Transport infrastructure and public investment.",
+      "mains_relevance": "Infrastructure investment, connectivity and logistics.",
+      "optional_relevance": "Public investment and infrastructure.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.pib.gov.in/newsite/pmreleases.aspx?lang=1&mincode=23&reg=3"
+    },
+    {
+      "id": "ca-2026-09-niti-trade-watch",
+      "date": "2026-09-01",
+      "title": "NITI Aayog Trade Watch Q1 FY27",
+      "summary": "NITI Aayog published Trade Watch Quarterly for April-June FY27 in September 2026.",
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs3.economy",
+        "optional.economics.paper1",
+        "optional.economics.paper2"
+      ],
+      "primary_source_ids": [
+        "SRC-NITI-AAYOG-REPORTS"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "External sector and trade indicators.",
+      "mains_relevance": "Trade performance and external-sector analysis.",
+      "optional_relevance": "International trade and Indian economy.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.niti.gov.in/publications/division-reports"
+    },
+    {
+      "id": "ca-2026-09-niti-electric-mobility",
+      "date": "2026-09-01",
+      "title": "India Electric Mobility Index 2025",
+      "summary": "NITI Aayog published the second edition of the India Electric Mobility Index in September 2026.",
+      "syllabus_ids": [
+        "prelims.gs1.environment",
+        "prelims.gs1.science",
+        "mains.gs3.infrastructure",
+        "mains.gs3.environment"
+      ],
+      "primary_source_ids": [
+        "SRC-NITI-AAYOG-REPORTS"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Electric mobility and clean-technology concepts.",
+      "mains_relevance": "Transport transition, energy and environmental policy.",
+      "optional_relevance": "Growth, sustainability and infrastructure.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.niti.gov.in/publications/division-reports"
+    },
+    {
+      "id": "ca-2026-09-niti-skilling",
+      "date": "2026-08-18",
+      "title": "Reimagining Skilling for Viksit Bharat@2047",
+      "summary": "NITI Aayog published a report on skilling, labour and employment in August 2026.",
+      "syllabus_ids": [
+        "mains.gs2.social_justice",
+        "mains.gs3.economy",
+        "prelims.gs1.economy_society"
+      ],
+      "primary_source_ids": [
+        "SRC-NITI-AAYOG-REPORTS"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Skill development and employment institutions.",
+      "mains_relevance": "Human capital, employment and skilling.",
+      "optional_relevance": "Human capital and labour economics.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.niti.gov.in/node/2397"
+    },
+    {
+      "id": "ca-2026-09-pib-semiconductor",
+      "date": "2026-09-17",
+      "title": "India Building Semiconductor Future",
+      "summary": "PIB published a September 2026 backgrounder on India's semiconductor development.",
+      "syllabus_ids": [
+        "prelims.gs1.science",
+        "mains.gs3.science_technology",
+        "mains.gs3.industry"
+      ],
+      "primary_source_ids": [
+        "SRC-PRESS-INFORMATION-BUREAU-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Semiconductor technology and manufacturing ecosystem.",
+      "mains_relevance": "Strategic technology, industrial policy and supply chains.",
+      "optional_relevance": "Industry and technology-led development.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.pib.gov.in/ViewBackgrounder.aspx?MenuId=51&lang=1&reg=3"
+    },
+    {
+      "id": "ca-2026-09-pib-brics",
+      "date": "2026-09-10",
+      "title": "BRICS backgrounder",
+      "summary": "PIB published a September 2026 backgrounder on BRICS.",
+      "syllabus_ids": [
+        "prelims.gs1.current_affairs",
+        "mains.gs2.international_relations"
+      ],
+      "primary_source_ids": [
+        "SRC-PRESS-INFORMATION-BUREAU-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "International groupings and institutional facts.",
+      "mains_relevance": "Global groupings and India's international interests.",
+      "optional_relevance": "International economic relations.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.pib.gov.in/ViewBackgrounder.aspx?lang=1&reg=3"
+    },
+    {
+      "id": "ca-2026-09-pib-blue-economy",
+      "date": "2026-09-10",
+      "title": "Blue Economy backgrounder",
+      "summary": "PIB published a September 2026 backgrounder on the Blue Economy.",
+      "syllabus_ids": [
+        "prelims.gs1.environment",
+        "mains.gs3.environment",
+        "mains.gs3.economy"
+      ],
+      "primary_source_ids": [
+        "SRC-PRESS-INFORMATION-BUREAU-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Marine resources and environmental concepts.",
+      "mains_relevance": "Sustainable use of ocean resources and economic development.",
+      "optional_relevance": "Natural resources and sustainable development.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://www.pib.gov.in/ViewBackgrounder.aspx?lang=1&reg=3"
     }
   ]
 }
