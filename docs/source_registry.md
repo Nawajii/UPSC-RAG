@@ -19,9 +19,10 @@ It is intentionally separate from the conventional book corpus, which remains th
 
 - 175 source institutions
 - 875 source-family records
-- 195 records directly verified during this build
-- 680 records marked REQUIRES_REVIEW
-- 0 unresolved records are silently discarded
+- 195 institution/domain records directly verified during this build
+- 875 source-family records require document/page-level verification
+- 680 institutions/source candidates still require institution/domain verification
+- 0 unresolved candidates are silently discarded
 
 The registry deliberately exceeds the original 400+ target because the source model records both institutions and their major source families:
 
