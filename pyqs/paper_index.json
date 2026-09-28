@@ -1,11 +1,11 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "policy": "Question-level text is not redistributed from web sources into this public repository. This index stores official provenance and paper metadata. Question-level records can be generated from official PDFs supplied by the user or otherwise lawfully available for processing.",
   "official_index": "https://www.upsc.gov.in/examinations/previous-question-papers",
   "archive_index": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
   "papers": [
     {
-      "id": "pyq-2026-gs-i",
+      "id": "pyq-2026-pre-gs-i",
       "year": "2026",
       "stage": "Prelims",
       "paper": "GS-I",
@@ -15,7 +15,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-csat",
+      "id": "pyq-2026-pre-csat",
       "year": "2026",
       "stage": "Prelims",
       "paper": "CSAT",
@@ -25,7 +25,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-gs-i",
+      "id": "pyq-2026-main-gs-i",
       "year": "2026",
       "stage": "Mains",
       "paper": "GS-I",
@@ -35,7 +35,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-gs-ii",
+      "id": "pyq-2026-main-gs-ii",
       "year": "2026",
       "stage": "Mains",
       "paper": "GS-II",
@@ -45,7 +45,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-gs-iii",
+      "id": "pyq-2026-main-gs-iii",
       "year": "2026",
       "stage": "Mains",
       "paper": "GS-III",
@@ -55,7 +55,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-gs-iv",
+      "id": "pyq-2026-main-gs-iv",
       "year": "2026",
       "stage": "Mains",
       "paper": "GS-IV",
@@ -65,7 +65,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-essay",
+      "id": "pyq-2026-main-essay",
       "year": "2026",
       "stage": "Mains",
       "paper": "Essay",
@@ -75,7 +75,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-economics-i",
+      "id": "pyq-2026-main-economics-i",
       "year": "2026",
       "stage": "Mains",
       "paper": "Economics-I",
@@ -85,7 +85,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2026-economics-ii",
+      "id": "pyq-2026-main-economics-ii",
       "year": "2026",
       "stage": "Mains",
       "paper": "Economics-II",
@@ -95,7 +95,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-gs-i",
+      "id": "pyq-2025-pre-gs-i",
       "year": "2025",
       "stage": "Prelims",
       "paper": "GS-I",
@@ -105,7 +105,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-csat",
+      "id": "pyq-2025-pre-csat",
       "year": "2025",
       "stage": "Prelims",
       "paper": "CSAT",
@@ -115,7 +115,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-gs-i",
+      "id": "pyq-2025-main-gs-i",
       "year": "2025",
       "stage": "Mains",
       "paper": "GS-I",
@@ -125,7 +125,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-gs-ii",
+      "id": "pyq-2025-main-gs-ii",
       "year": "2025",
       "stage": "Mains",
       "paper": "GS-II",
@@ -135,7 +135,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-gs-iii",
+      "id": "pyq-2025-main-gs-iii",
       "year": "2025",
       "stage": "Mains",
       "paper": "GS-III",
@@ -145,7 +145,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-gs-iv",
+      "id": "pyq-2025-main-gs-iv",
       "year": "2025",
       "stage": "Mains",
       "paper": "GS-IV",
@@ -155,7 +155,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-essay",
+      "id": "pyq-2025-main-essay",
       "year": "2025",
       "stage": "Mains",
       "paper": "Essay",
@@ -165,7 +165,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-economics-i",
+      "id": "pyq-2025-main-economics-i",
       "year": "2025",
       "stage": "Mains",
       "paper": "Economics-I",
@@ -175,7 +175,7 @@
       "status": "VERIFIED"
     },
     {
-      "id": "pyq-2025-economics-ii",
+      "id": "pyq-2025-main-economics-ii",
       "year": "2025",
       "stage": "Mains",
       "paper": "Economics-II",
@@ -184,5 +184,10 @@
       "official_provenance": "https://www.upsc.gov.in/examinations/previous-question-papers",
       "status": "VERIFIED"
     }
+  ],
+  "notes": [
+    "Paper-level provenance is verified against the official UPSC previous-question-paper index.",
+    "Question-level text is intentionally absent until official PDFs are supplied for lawful processing.",
+    "IDs are globally unique by year + stage + paper."
   ]
 }
