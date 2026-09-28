@@ -1,0 +1,40 @@
+version: "2026-09-28"
+status: "registry_only"
+note: "Learning sources are registered as they become available in the ChatGPT Project. No copyrighted book is copied into this repository."
+
+sources:
+  - id: ncert
+    name: "NCERT"
+    tier: 2
+    role: "foundational learning"
+    availability: "to_be_registered"
+  - id: laxmikanth
+    name: "M. Laxmikanth — Indian Polity"
+    tier: 2
+    role: "polity learning benchmark"
+    availability: "to_be_registered"
+  - id: spectrum_modern_india
+    name: "Spectrum — A Brief History of Modern India"
+    tier: 2
+    role: "modern history learning benchmark"
+    availability: "to_be_registered"
+  - id: gc_leong
+    name: "G.C. Leong — Certificate Physical and Human Geography"
+    tier: 2
+    role: "geography learning benchmark"
+    availability: "to_be_registered"
+  - id: ramesh_singh
+    name: "Ramesh Singh — Indian Economy"
+    tier: 2
+    role: "economy learning benchmark"
+    availability: "to_be_registered"
+  - id: ahuja
+    name: "Ahuja — Indian Social System / relevant selected material"
+    tier: 2
+    role: "society learning benchmark"
+    availability: "to_be_registered"
+  - id: ignou
+    name: "IGNOU study material"
+    tier: 2
+    role: "supplementary learning/reference"
+    availability: "to_be_registered"
