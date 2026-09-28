@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-09-28",
+  "purpose": "Legal, authoritative and freely accessible material anchors for UPSC CSE 2027 preparation. Copyrighted commercial books are not copied into this repository; user-supplied legitimate copies belong in the ChatGPT Project knowledge library.",
+  "syllabus": {
+    "master_source": "https://upsc.gov.in/sites/default/files/Notif-CSP-24-engl-140224.pdf",
+    "source_type": "UPSC Civil Services Examination notification",
+    "note": "The repository taxonomy is the operational index. The applicable CSE 2027 notification/syllabus supersedes this historical notification when officially published."
+  },
+  "materials": [
+    {
+      "id": "mat-ncert-textbooks",
+      "name": "NCERT Textbooks",
+      "type": "Source of Knowledge",
+      "url": "https://ncert.nic.in/textbook.php",
+      "use": "School-level conceptual foundations for History, Geography, Society, Economy, Science and Environment."
+    },
+    {
+      "id": "mat-ignou-egyan",
+      "name": "IGNOU eGyanKosh",
+      "type": "Source of Knowledge",
+      "url": "https://egyankosh.ac.in/",
+      "use": "Open educational material for selected GS and Economics topics."
+    },
+    {
+      "id": "mat-india-budget",
+      "name": "Union Budget",
+      "type": "Source of Truth",
+      "url": "https://www.indiabudget.gov.in/",
+      "use": "Budget documents, Finance Bill, fiscal policy and expenditure/revenue data."
+    },
+    {
+      "id": "mat-economic-survey",
+      "name": "Economic Survey",
+      "type": "Source of Truth",
+      "url": "https://www.indiabudget.gov.in/economicsurvey/",
+      "use": "Macroeconomic, sectoral and policy evidence for GS-III and Economics Optional."
+    },
+    {
+      "id": "mat-rbi",
+      "name": "Reserve Bank of India",
+      "type": "Source of Truth",
+      "url": "https://www.rbi.org.in/",
+      "use": "Monetary policy, banking, financial system, statistics and reports."
+    },
+    {
+      "id": "mat-mospi",
+      "name": "Ministry of Statistics and Programme Implementation",
+      "type": "Source of Truth",
+      "url": "https://www.mospi.gov.in/",
+      "use": "Official statistics, national accounts, surveys and indicators."
+    },
+    {
+      "id": "mat-niti",
+      "name": "NITI Aayog",
+      "type": "Source of Truth",
+      "url": "https://www.niti.gov.in/",
+      "use": "Policy reports, development indicators and government strategy."
+    },
+    {
+      "id": "mat-parliament",
+      "name": "Parliament of India",
+      "type": "Source of Truth",
+      "url": "https://sansad.in/",
+      "use": "Bills, parliamentary material, committees and legislative information."
+    },
+    {
+      "id": "mat-india-code",
+      "name": "India Code",
+      "type": "Source of Truth",
+      "url": "https://www.indiacode.nic.in/",
+      "use": "Central Acts, subordinate legislation and legal text."
+    },
+    {
+      "id": "mat-upsc-pyq",
+      "name": "UPSC Previous Question Papers",
+      "type": "PYQ",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "use": "Official current PYQ index."
+    },
+    {
+      "id": "mat-upsc-pyq-archive",
+      "name": "UPSC Previous Question Papers Archives",
+      "type": "PYQ",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers/archives",
+      "use": "Official archive containing CSE papers from earlier years, including 2016 onward."
+    }
+  ]
+}
