@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "record_type": "current_affairs",
+  "required_fields": {
+    "id": "string",
+    "date": "YYYY-MM-DD",
+    "title": "string",
+    "summary": "string",
+    "syllabus_ids": "array[string]",
+    "source_of_truth": "array[string]",
+    "source_of_knowledge": "array[string]|null",
+    "pyq_connections": "array[string]|null",
+    "prelims_relevance": "string|null",
+    "mains_relevance": "string|null",
+    "economics_optional_relevance": "string|null",
+    "tags": "array[string]",
+    "status": "VERIFIED|PROVISIONAL|CONFLICTING|OUTDATED|REQUIRES_REVIEW"
+  },
+  "rules": [
+    "Formal current-affairs retention starts May 2026.",
+    "Retain only syllabus-relevant developments.",
+    "Prefer primary/official sources.",
+    "Important claims should be cross-checked where reasonably possible.",
+    "Do not store news merely because it is recent."
+  ]
+}
