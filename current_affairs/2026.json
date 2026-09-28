@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "coverage_start": "2026-05-01",
+  "records": [
+    {
+      "id": "ca-2026-06-rbi-mpc",
+      "date": "2026-06-05",
+      "title": "RBI Monetary Policy Committee June 2026",
+      "summary": "RBI published the June 2026 Monetary Policy Statement and MPC resolution, with accompanying State of the Economy material in the June RBI Bulletin.",
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs3.economy",
+        "optional.economics.paper1",
+        "optional.economics.paper2"
+      ],
+      "primary_source_ids": [
+        "SRC-RESERVE-BANK-OF-INDIA-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Monetary policy, policy rates, inflation, liquidity and financial intermediation.",
+      "mains_relevance": "Monetary policy transmission, inflation-growth trade-offs and financial-sector regulation.",
+      "optional_relevance": "Money, banking, monetary management and macroeconomic policy.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://bulletin.rbi.org.in/"
+    },
+    {
+      "id": "ca-2026-08-rbi-mpc",
+      "date": "2026-08-05",
+      "title": "RBI Monetary Policy Committee August 2026",
+      "summary": "RBI published the August 2026 Monetary Policy Statement and related policy material; the RBI site records the August 3–5 MPC resolution and Governor statement.",
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs3.economy",
+        "optional.economics.paper1",
+        "optional.economics.paper2"
+      ],
+      "primary_source_ids": [
+        "SRC-RESERVE-BANK-OF-INDIA-CURRENT_UPDATES"
+      ],
+      "secondary_context_sources": [],
+      "prelims_relevance": "Current monetary-policy stance and key policy rates.",
+      "mains_relevance": "Inflation, growth, monetary transmission and financial stability.",
+      "optional_relevance": "Monetary management and macroeconomic policy.",
+      "pyq_ids": [],
+      "status": "VERIFIED",
+      "last_verified": "2026-09-28",
+      "official_source": "https://m.rbi.org.in/scripts/BS_SpeechesView.aspx?Id=104"
+    }
+  ]
+}
