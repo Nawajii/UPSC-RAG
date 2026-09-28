@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-09-28",
+  "collections": [
+    {
+      "id": "ncert",
+      "name": "NCERT Textbooks",
+      "type": "SOURCE_OF_KNOWLEDGE",
+      "status": "OFFICIAL_CATALOG_READY",
+      "url": "https://ncert.nic.in/textbook.php",
+      "priority": "HIGH",
+      "coverage": [
+        "GS-I",
+        "GS-II",
+        "GS-III",
+        "Prelims",
+        "Economics Optional"
+      ]
+    },
+    {
+      "id": "upsc_pyqs",
+      "name": "UPSC CSE Previous Question Papers",
+      "type": "PYQ",
+      "status": "OFFICIAL_INDEX_READY",
+      "url": "https://www.upsc.gov.in/examinations/previous-question-papers",
+      "priority": "CRITICAL",
+      "coverage": "2016-2026"
+    },
+    {
+      "id": "union_budget",
+      "name": "Union Budget",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.indiabudget.gov.in/",
+      "priority": "HIGH"
+    },
+    {
+      "id": "economic_survey",
+      "name": "Economic Survey",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.indiabudget.gov.in/economicsurvey/",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "rbi",
+      "name": "Reserve Bank of India",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.rbi.org.in/",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "mospi",
+      "name": "MoSPI",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.mospi.gov.in/",
+      "priority": "HIGH"
+    },
+    {
+      "id": "niti",
+      "name": "NITI Aayog",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.niti.gov.in/",
+      "priority": "HIGH"
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament of India / Sansad",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://sansad.in/",
+      "priority": "HIGH"
+    },
+    {
+      "id": "india_code",
+      "name": "India Code",
+      "type": "SOURCE_OF_TRUTH",
+      "status": "OFFICIAL_PORTAL_READY",
+      "url": "https://www.indiacode.nic.in/",
+      "priority": "CRITICAL"
+    },
+    {
+      "id": "ignou",
+      "name": "IGNOU eGyanKosh",
+      "type": "SOURCE_OF_KNOWLEDGE",
+      "status": "OPEN_CATALOG_READY",
+      "url": "https://egyankosh.ac.in/",
+      "priority": "MEDIUM"
+    }
+  ],
+  "commercial_books": [
+    {
+      "name": "Indian Polity",
+      "author": "M. Laxmikanth",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "GS-II",
+        "Prelims"
+      ]
+    },
+    {
+      "name": "A Brief History of Modern India / Spectrum",
+      "author": "Rajiv Ahir",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "GS-I",
+        "Prelims"
+      ]
+    },
+    {
+      "name": "Certificate Physical and Human Geography",
+      "author": "G.C. Leong",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "GS-I",
+        "Prelims"
+      ]
+    },
+    {
+      "name": "Advanced Economic Theory",
+      "author": "H.L. Ahuja",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "Economics Optional Paper I"
+      ]
+    },
+    {
+      "name": "Macroeconomics",
+      "author": "H.L. Ahuja",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "Economics Optional Paper I"
+      ]
+    },
+    {
+      "name": "International Economics",
+      "author": "Paul Krugman / Maurice Obstfeld",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "Economics Optional Paper I"
+      ]
+    },
+    {
+      "name": "Indian Economy",
+      "author": "Ramesh Singh",
+      "status": "USER_UPLOAD_REQUIRED",
+      "primary_uses": [
+        "GS-III",
+        "Economics Optional Paper II"
+      ]
+    }
+  ]
+}
