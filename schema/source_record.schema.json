@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "record_type": "source_record",
+  "required_fields": {
+    "source_id": "string",
+    "source_name": "string",
+    "authority": "string",
+    "url": "string",
+    "tier": "1|2|3|4",
+    "status": "VERIFIED|INSTITUTION_VERIFIED|PROVISIONAL|CONFLICTING|OUTDATED|REQUIRES_REVIEW",
+    "syllabus_ids": "array[string]",
+    "source_role": "knowledge|truth|context|discovery"
+  },
+  "verification": {
+    "institution": "VERIFIED|REQUIRES_REVIEW",
+    "source_page": "VERIFIED|REQUIRES_REVIEW",
+    "content": "VERIFIED|REQUIRES_REVIEW"
+  },
+  "rule": "A source may be used as final Source of Truth only when the relevant document/page and claim are verified; institution/domain verification alone is insufficient."
+}
