@@ -1,0 +1,27 @@
+version: "2026-09-28"
+status: "initial_registry"
+official_repository:
+  id: upsc_previous_question_papers
+  url: "https://www.upsc.gov.in/examinations/previous-question-papers"
+
+coverage:
+  prelims_gs1:
+    target: "verified metadata and question text for available years"
+  csat:
+    target: "verified metadata and question text for available years"
+  mains_gs1:
+    target: "verified metadata and question text for available years"
+  mains_gs2:
+    target: "verified metadata and question text for available years"
+  mains_gs3:
+    target: "verified metadata and question text for available years"
+  mains_gs4:
+    target: "verified metadata and question text for available years"
+  essay:
+    target: "verified metadata and question text for available years"
+  economics_optional_p1:
+    target: "verified metadata and question text for available years"
+  economics_optional_p2:
+    target: "verified metadata and question text for available years"
+
+records: []
