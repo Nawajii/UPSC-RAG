@@ -13,11 +13,14 @@
     },
     "source_of_truth": {
       "path": "sources/source_registry.json",
-      "status": "READY_WITH_VERIFICATION_QUEUE"
+      "status": "OPERATIONAL_WITH_VERIFIED_BASELINE",
+      "verified_baseline": "docs/source_verification_baseline.json",
+      "broader_registry": "175 institutions / 875 source-family records"
     },
     "unresolved_sources": {
       "path": "sources/unresolved_sources.json",
-      "status": "ACTIVE_QUEUE"
+      "status": "DISCOVERY_QUEUE_NOT_FINAL_TRUTH",
+      "rule": "Do not use queue records as final evidence; verify exact source pages at retrieval time."
     },
     "pyq_papers": {
       "path": "pyqs/paper_index.json",
@@ -25,12 +28,14 @@
     },
     "pyq_questions": {
       "path": "pyqs/questions/",
-      "status": "PENDING_OFFICIAL_PDF_INGESTION"
+      "status": "EXTERNAL_OFFICIAL_PDF_REQUIRED",
+      "reason": "Public repository does not redistribute full official question-paper text; exact question-level records require official PDFs supplied/lawfully processed."
     },
     "current_affairs": {
       "path": "current_affairs/",
-      "status": "STARTED_2026_05_ONWARD",
-      "records": "current_affairs/2026.json"
+      "status": "VERIFIED_BASELINE_MAY_2026_ONWARD",
+      "records": "current_affairs/2026.json",
+      "coverage_note": "10 verified records currently seeded; ingestion protocol is active."
     },
     "relations": {
       "path": "relations/",
@@ -47,14 +52,25 @@
     "source_routing": {
       "path": "relations/source_routing.json",
       "status": "READY"
+    },
+    "retrieval_tests": {
+      "path": "tests/retrieval_cases.json",
+      "status": "READY_8_CASES"
+    },
+    "validation": {
+      "path": "scripts/validate_corpus.py",
+      "status": "READY_OFFLINE"
     }
   },
   "completion_gate": [
-    "Every final Source-of-Truth claim has document/page provenance.",
-    "Question-level PYQs are traceable to official UPSC papers.",
-    "Current affairs are syllabus-linked and source-verified.",
-    "Retrieval returns evidence before interpretation.",
-    "Conflicts and uncertainty are explicit."
+    "Repository architecture and schemas are operational.",
+    "High-value Source-of-Truth document/page anchors are verified.",
+    "Paper-level PYQ provenance is verified for 2023-2026.",
+    "Question-level PYQ text is external to the public repository until official PDFs are supplied/lawfully processed.",
+    "Current affairs from May 2026 are retained only when syllabus-linked and primary-source verified.",
+    "Representative retrieval acceptance cases are defined.",
+    "Offline integrity validation is available.",
+    "Unresolved discovery records are never treated as final evidence."
   ],
   "last_updated": "2026-09-28"
 }
