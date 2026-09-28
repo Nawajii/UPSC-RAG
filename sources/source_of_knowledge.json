@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Source of Knowledge registry for UPSC CSE. These materials teach and explain; they do not override authoritative Source-of-Truth sources.",
+  "rule": "Use legitimate copies supplied to the ChatGPT Project where needed. Do not redistribute copyrighted books from the public web.",
+  "sources": [
+    {
+      "id": "KNOW-NCERT-01",
+      "name": "NCERT school textbooks",
+      "coverage": "History|Geography|Polity|Economy|Science|Society",
+      "role": "Foundational conceptual knowledge",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-LAXMIKANTH",
+      "name": "M. Laxmikanth — Indian Polity",
+      "coverage": "Polity|Constitution|Governance",
+      "role": "Primary conventional polity benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-SPECTRUM",
+      "name": "Rajiv Ahir — A Brief History of Modern India (Spectrum)",
+      "coverage": "Modern History|Freedom Struggle",
+      "role": "Modern history benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-GC-LEONG",
+      "name": "G.C. Leong — Certificate Physical and Human Geography",
+      "coverage": "Physical Geography|Human Geography",
+      "role": "Geography benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-AHUJA-MICRO",
+      "name": "H.L. Ahuja — Advanced Economic Theory",
+      "coverage": "Economics Optional Paper I|Microeconomics",
+      "role": "Advanced micro benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-AHUJA-MACRO",
+      "name": "H.L. Ahuja — Macroeconomics",
+      "coverage": "Economics Optional Paper I|Macroeconomics",
+      "role": "Macro benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-KRUGMAN",
+      "name": "Krugman & Obstfeld — International Economics",
+      "coverage": "Economics Optional Paper I|International Economics",
+      "role": "Selective advanced reference",
+      "status": "SELECTIVE"
+    },
+    {
+      "id": "KNOW-RAMESH-SINGH",
+      "name": "Ramesh Singh — Indian Economy",
+      "coverage": "GS III|Economics Optional Paper II",
+      "role": "Indian economy benchmark",
+      "status": "CORE"
+    },
+    {
+      "id": "KNOW-IGNOU",
+      "name": "IGNOU study material",
+      "coverage": "Society|Governance|Development|Economy|Ethics|History|Geography",
+      "role": "Supplementary conceptual/reference material",
+      "status": "SELECTIVE"
+    },
+    {
+      "id": "KNOW-ART-CULTURE",
+      "name": "Selected Art & Culture reference material",
+      "coverage": "GS I|Culture",
+      "role": "Supplementary benchmark",
+      "status": "SELECTIVE"
+    },
+    {
+      "id": "KNOW-ARC",
+      "name": "Second Administrative Reforms Commission reports",
+      "coverage": "Governance|Ethics|Public Administration|Security",
+      "role": "Authoritative explanatory/reference material",
+      "status": "SELECTIVE"
+    },
+    {
+      "id": "KNOW-ECONOMIC-SURVEY",
+      "name": "Economic Survey",
+      "coverage": "GS III|Economics Optional Paper II|Current Economy",
+      "role": "Bridge between knowledge and truth; official source takes precedence",
+      "status": "OFFICIAL_REFERENCE"
+    },
+    {
+      "id": "KNOW-UNION-BUDGET",
+      "name": "Union Budget documents",
+      "coverage": "GS III|Economics Optional Paper II|Public Finance",
+      "role": "Official reference and current factual source",
+      "status": "OFFICIAL_REFERENCE"
+    },
+    {
+      "id": "KNOW-RBI",
+      "name": "RBI publications and reports",
+      "coverage": "Economics Optional Paper I/II|Banking|Monetary Policy",
+      "role": "Official reference and Source of Truth",
+      "status": "OFFICIAL_REFERENCE"
+    },
+    {
+      "id": "KNOW-NITI",
+      "name": "NITI Aayog reports",
+      "coverage": "GS II|GS III|Development|Economy",
+      "role": "Official policy reference",
+      "status": "OFFICIAL_REFERENCE"
+    }
+  ]
+}
