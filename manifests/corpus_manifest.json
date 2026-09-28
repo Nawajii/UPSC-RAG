@@ -29,7 +29,8 @@
     },
     "current_affairs": {
       "path": "current_affairs/",
-      "status": "READY_FOR_INGESTION_FROM_MAY_2026"
+      "status": "STARTED_2026_05_ONWARD",
+      "records": "current_affairs/2026.json"
     },
     "relations": {
       "path": "relations/",
@@ -42,6 +43,10 @@
     "retrieval_protocol": {
       "path": "docs/retrieval_protocol.md",
       "status": "READY"
+    },
+    "source_routing": {
+      "path": "relations/source_routing.json",
+      "status": "READY"
     }
   },
   "completion_gate": [
@@ -50,5 +55,6 @@
     "Current affairs are syllabus-linked and source-verified.",
     "Retrieval returns evidence before interpretation.",
     "Conflicts and uncertainty are explicit."
-  ]
+  ],
+  "last_updated": "2026-09-28"
 }
