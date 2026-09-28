@@ -1,0 +1,139 @@
+version: "2026-09-28"
+authority: "UPSC"
+purpose: "Master taxonomy for CSE 2027 retrieval"
+formal_current_affairs_start: "2026-05-01"
+
+cse:
+  prelims:
+    gs1:
+      label: "General Studies Paper I"
+      areas:
+        - history_of_india
+        - indian_national_movement
+        - indian_and_world_geography
+        - indian_polity_and_governance
+        - economic_and_social_development
+        - environmental_ecology_biodiversity_climate
+        - general_science
+    csat:
+      label: "General Studies Paper II (CSAT)"
+      areas:
+        - comprehension
+        - interpersonal_communication
+        - logical_reasoning
+        - analytical_ability
+        - decision_making
+        - problem_solving
+        - general_mental_ability
+        - basic_numeracy
+        - data_interpretation
+        - english_language_comprehension
+
+  mains:
+    gs1:
+      label: "General Studies Paper I"
+      areas:
+        - indian_heritage_and_culture
+        - modern_indian_history
+        - freedom_struggle
+        - post_independence
+        - world_history
+        - indian_society
+        - geography
+    gs2:
+      label: "General Studies Paper II"
+      areas:
+        - constitution
+        - polity
+        - governance
+        - social_justice
+        - international_relations
+    gs3:
+      label: "General Studies Paper III"
+      areas:
+        - indian_economy
+        - inclusive_growth
+        - budgeting
+        - agriculture
+        - food_processing
+        - land_reforms
+        - liberalization
+        - infrastructure
+        - investment_models
+        - science_and_technology
+        - environment
+        - disaster_management
+        - internal_security
+    gs4:
+      label: "General Studies Paper IV"
+      areas:
+        - ethics
+        - integrity
+        - aptitude
+        - human_values
+        - attitude
+        - emotional_intelligence
+        - moral_thinkers
+        - public_service_values
+        - probity
+        - case_studies
+
+    essay:
+      label: "Essay"
+      areas:
+        - philosophical
+        - social
+        - political
+        - economic
+        - scientific
+        - environmental
+        - ethical
+        - governance
+        - technology
+        - human_values
+
+    economics_optional:
+      label: "Economics Optional"
+      paper_i:
+        - advanced_microeconomics
+        - advanced_macroeconomics
+        - money_and_banking
+        - public_finance
+        - international_economics
+        - growth_and_development
+      paper_ii:
+        - indian_economy
+        - agriculture
+        - industry
+        - infrastructure
+        - money_and_banking
+        - public_finance
+        - external_sector
+        - development
+
+  prelims_only:
+    label: "Prelims-only factual layer"
+    areas:
+      - mapping
+      - species
+      - national_parks
+      - protected_areas
+      - wetlands
+      - reports
+      - indices
+      - international_organisations
+      - conventions
+      - locations
+      - geography_facts
+      - science_facts
+      - government_schemes
+      - miscellaneous_factual_knowledge
+
+  interview:
+    label: "Personality Test"
+    areas:
+      - personality
+      - current_affairs
+      - background_and_daf
+      - judgement
+      - communication
