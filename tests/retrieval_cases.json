@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Representative acceptance tests for UPSC-RAG routing and evidence discipline.",
+  "cases": [
+    {
+      "id": "rt-economy-fiscal-deficit",
+      "query": "Explain fiscal deficit and its implications.",
+      "modes": [
+        "LEARN",
+        "VERIFY",
+        "MAINS",
+        "OPTIONAL"
+      ],
+      "syllabus_ids": [
+        "mains.gs3.economy",
+        "optional.economics.paper2",
+        "prelims.gs1.economy_society"
+      ],
+      "required_source_families": [
+        "reports",
+        "statistics",
+        "current_updates"
+      ],
+      "required_knowledge": [
+        "Ramesh Singh",
+        "Economic Survey",
+        "Union Budget"
+      ],
+      "checks": [
+        "primary evidence before interpretation",
+        "PYQ linkage when available",
+        "current data separated from textbook concept"
+      ]
+    },
+    {
+      "id": "rt-polity-fundamental-rights",
+      "query": "What is the constitutional basis and current legal position of a Fundamental Right?",
+      "modes": [
+        "LEARN",
+        "VERIFY",
+        "MAINS"
+      ],
+      "syllabus_ids": [
+        "mains.gs2.constitution"
+      ],
+      "required_source_families": [
+        "laws_notifications",
+        "current_updates"
+      ],
+      "required_knowledge": [
+        "Laxmikanth",
+        "NCERT"
+      ],
+      "checks": [
+        "Constitution/court source preferred",
+        "case/date explicit",
+        "no secondary claim treated as law"
+      ]
+    },
+    {
+      "id": "rt-agri-msp-pds",
+      "query": "Explain MSP, procurement and PDS and identify current developments.",
+      "modes": [
+        "LEARN",
+        "CURRENT",
+        "MAINS",
+        "PRELIMS"
+      ],
+      "syllabus_ids": [
+        "mains.gs3.agriculture",
+        "mains.gs3.economy"
+      ],
+      "required_source_families": [
+        "policy_programmes",
+        "statistics",
+        "current_updates"
+      ],
+      "required_knowledge": [
+        "Ramesh Singh",
+        "Economic Survey"
+      ],
+      "checks": [
+        "official policy source",
+        "statistics source",
+        "current development dated"
+      ]
+    },
+    {
+      "id": "rt-climate-policy",
+      "query": "Explain India's climate-policy framework and a recent development.",
+      "modes": [
+        "LEARN",
+        "CURRENT",
+        "MAINS"
+      ],
+      "syllabus_ids": [
+        "mains.gs3.environment"
+      ],
+      "required_source_families": [
+        "policy_programmes",
+        "reports",
+        "current_updates"
+      ],
+      "required_knowledge": [
+        "NCERT",
+        "selected official reports"
+      ],
+      "checks": [
+        "official policy/report",
+        "date",
+        "distinguish policy from analysis"
+      ]
+    },
+    {
+      "id": "rt-parliament-privileges",
+      "query": "Explain parliamentary privileges and relevant constitutional/legal sources.",
+      "modes": [
+        "LEARN",
+        "VERIFY",
+        "MAINS"
+      ],
+      "syllabus_ids": [
+        "mains.gs2.parliament"
+      ],
+      "required_source_families": [
+        "laws_notifications",
+        "current_updates",
+        "reports"
+      ],
+      "required_knowledge": [
+        "Laxmikanth"
+      ],
+      "checks": [
+        "constitutional source",
+        "Parliament/judicial source where relevant",
+        "conflicts explicit"
+      ]
+    },
+    {
+      "id": "rt-monetary-policy",
+      "query": "Explain monetary policy transmission and the latest relevant RBI development.",
+      "modes": [
+        "LEARN",
+        "CURRENT",
+        "PRELIMS",
+        "OPTIONAL"
+      ],
+      "syllabus_ids": [
+        "prelims.gs1.economy_society",
+        "mains.gs3.economy",
+        "optional.economics.paper1",
+        "optional.economics.paper2"
+      ],
+      "required_source_families": [
+        "current_updates",
+        "statistics",
+        "reports"
+      ],
+      "required_knowledge": [
+        "H.L. Ahuja",
+        "Ramesh Singh"
+      ],
+      "checks": [
+        "RBI primary source",
+        "date",
+        "policy stance separated from explanation"
+      ]
+    },
+    {
+      "id": "rt-economics-micro-elasticity",
+      "query": "Explain price elasticity of demand, determinants and applications.",
+      "modes": [
+        "LEARN",
+        "OPTIONAL",
+        "PYQ"
+      ],
+      "syllabus_ids": [
+        "optional.economics.paper1"
+      ],
+      "required_knowledge": [
+        "H.L. Ahuja Advanced Economic Theory"
+      ],
+      "checks": [
+        "conceptual explanation",
+        "diagram/equation if useful",
+        "PYQ linkage"
+      ]
+    },
+    {
+      "id": "rt-international-trade",
+      "query": "Compare comparative advantage, terms of trade and trade policy instruments.",
+      "modes": [
+        "LEARN",
+        "OPTIONAL",
+        "MAINS"
+      ],
+      "syllabus_ids": [
+        "optional.economics.paper1"
+      ],
+      "required_knowledge": [
+        "Krugman/Obstfeld"
+      ],
+      "checks": [
+        "theory source",
+        "Indian policy source where current",
+        "PYQ linkage"
+      ]
+    }
+  ],
+  "acceptance_rule": "A case passes only if the retrieval layer identifies the syllabus node, selects an appropriate knowledge source, prefers authoritative truth, preserves uncertainty, and does not invent PYQs or current facts."
+}
