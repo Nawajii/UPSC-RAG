@@ -1,0 +1,843 @@
+{
+  "schema_version": "1.0",
+  "status": "VERIFIED_AGAINST_CSE_2026_NOTIFICATION",
+  "source": {
+    "authority": "UPSC",
+    "notification": "Civil Services Examination 2026",
+    "url": "https://www.upsc.gov.in/sites/default/files/Notif-CSP-2026-Engl-060226Rev.pdf",
+    "note": "CSE 2027 notification/syllabus is not yet the controlling official notice; this taxonomy is the verified 2026 baseline and must be diffed against the 2027 notification when published."
+  },
+  "prelims": {
+    "gs1": {
+      "id": "prelims.gs1",
+      "topics": [
+        {
+          "id": "prelims.gs1.current_affairs",
+          "name": "Current events of national and international importance"
+        },
+        {
+          "id": "prelims.gs1.history",
+          "name": "History of India and Indian National Movement",
+          "subtopics": [
+            "Ancient India",
+            "Medieval India",
+            "Modern India",
+            "Indian National Movement"
+          ]
+        },
+        {
+          "id": "prelims.gs1.geography",
+          "name": "Indian and World Geography",
+          "subtopics": [
+            "Physical Geography",
+            "Social Geography",
+            "Economic Geography",
+            "India",
+            "World",
+            "Mapping"
+          ]
+        },
+        {
+          "id": "prelims.gs1.polity",
+          "name": "Indian Polity and Governance",
+          "subtopics": [
+            "Constitution",
+            "Political System",
+            "Panchayati Raj",
+            "Public Policy",
+            "Rights Issues"
+          ]
+        },
+        {
+          "id": "prelims.gs1.economy_society",
+          "name": "Economic and Social Development",
+          "subtopics": [
+            "Sustainable Development",
+            "Poverty",
+            "Inclusion",
+            "Demographics",
+            "Social Sector Initiatives"
+          ]
+        },
+        {
+          "id": "prelims.gs1.environment",
+          "name": "Environment and Ecology",
+          "subtopics": [
+            "Ecology",
+            "Biodiversity",
+            "Climate Change",
+            "Environmental Issues"
+          ]
+        },
+        {
+          "id": "prelims.gs1.science",
+          "name": "General Science",
+          "subtopics": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Space",
+            "Defence",
+            "Emerging Technology"
+          ]
+        }
+      ]
+    },
+    "csat": {
+      "id": "prelims.csat",
+      "topics": [
+        {
+          "id": "prelims.csat.comprehension",
+          "name": "Comprehension"
+        },
+        {
+          "id": "prelims.csat.communication",
+          "name": "Interpersonal skills and communication skills"
+        },
+        {
+          "id": "prelims.csat.reasoning",
+          "name": "Logical reasoning and analytical ability"
+        },
+        {
+          "id": "prelims.csat.decision",
+          "name": "Decision making and problem solving"
+        },
+        {
+          "id": "prelims.csat.mental",
+          "name": "General mental ability"
+        },
+        {
+          "id": "prelims.csat.numeracy",
+          "name": "Basic numeracy",
+          "subtopics": [
+            "Numbers",
+            "Relations",
+            "Orders of magnitude"
+          ]
+        },
+        {
+          "id": "prelims.csat.di",
+          "name": "Data interpretation",
+          "subtopics": [
+            "Charts",
+            "Graphs",
+            "Tables",
+            "Data sufficiency"
+          ]
+        }
+      ]
+    }
+  },
+  "mains": {
+    "essay": {
+      "id": "mains.essay",
+      "name": "Essay",
+      "subtopics": [
+        "Philosophical",
+        "Social",
+        "Political/Governance",
+        "Economic",
+        "Science & Technology",
+        "Environment",
+        "Abstract/Conceptual"
+      ]
+    },
+    "gs1": {
+      "id": "mains.gs1",
+      "name": "Indian Heritage and Culture, History and Geography of the World and Society",
+      "topics": [
+        {
+          "id": "mains.gs1.culture",
+          "name": "Indian Culture",
+          "subtopics": [
+            "Art Forms",
+            "Literature",
+            "Architecture",
+            "Ancient to Modern"
+          ]
+        },
+        {
+          "id": "mains.gs1.modern_history",
+          "name": "Modern Indian History",
+          "subtopics": [
+            "Mid-18th century to present",
+            "Events",
+            "Personalities",
+            "Issues"
+          ]
+        },
+        {
+          "id": "mains.gs1.freedom_struggle",
+          "name": "Freedom Struggle",
+          "subtopics": [
+            "Stages",
+            "Contributors",
+            "Regional contributions"
+          ]
+        },
+        {
+          "id": "mains.gs1.post_independence",
+          "name": "Post-Independence Consolidation and Reorganization"
+        },
+        {
+          "id": "mains.gs1.world_history",
+          "name": "World History",
+          "subtopics": [
+            "Industrial Revolution",
+            "World Wars",
+            "Redrawing of boundaries",
+            "Colonization",
+            "Decolonization",
+            "Communism",
+            "Capitalism",
+            "Socialism",
+            "Effects on society"
+          ]
+        },
+        {
+          "id": "mains.gs1.society",
+          "name": "Indian Society",
+          "subtopics": [
+            "Salient features",
+            "Diversity",
+            "Women and women’s organizations",
+            "Population",
+            "Poverty",
+            "Development",
+            "Urbanization",
+            "Globalization",
+            "Social empowerment",
+            "Communalism",
+            "Regionalism",
+            "Secularism"
+          ]
+        },
+        {
+          "id": "mains.gs1.geography",
+          "name": "Geography",
+          "subtopics": [
+            "Physical Geography",
+            "Natural resources",
+            "Industrial location",
+            "Geophysical phenomena",
+            "Earthquakes",
+            "Tsunami",
+            "Volcanism",
+            "Cyclones",
+            "Water bodies",
+            "Ice caps",
+            "Flora and fauna",
+            "Geographical change"
+          ]
+        }
+      ]
+    },
+    "gs2": {
+      "id": "mains.gs2",
+      "name": "Governance, Constitution, Polity, Social Justice and International Relations",
+      "topics": [
+        {
+          "id": "mains.gs2.constitution",
+          "name": "Indian Constitution",
+          "subtopics": [
+            "Historical underpinnings",
+            "Evolution",
+            "Features",
+            "Amendments",
+            "Significant provisions",
+            "Basic structure"
+          ]
+        },
+        {
+          "id": "mains.gs2.federalism",
+          "name": "Union-State Relations and Federalism",
+          "subtopics": [
+            "Union functions",
+            "State functions",
+            "Federal challenges",
+            "Devolution",
+            "Local-level powers",
+            "Local finances"
+          ]
+        },
+        {
+          "id": "mains.gs2.separation",
+          "name": "Separation of Powers and Dispute Redressal",
+          "subtopics": [
+            "Legislature",
+            "Executive",
+            "Judiciary",
+            "Dispute redressal mechanisms",
+            "Institutions"
+          ]
+        },
+        {
+          "id": "mains.gs2.comparative_constitution",
+          "name": "Comparison of Indian constitutional scheme with other countries"
+        },
+        {
+          "id": "mains.gs2.parliament",
+          "name": "Parliament and State Legislatures",
+          "subtopics": [
+            "Structure",
+            "Functioning",
+            "Business",
+            "Powers",
+            "Privileges",
+            "Issues"
+          ]
+        },
+        {
+          "id": "mains.gs2.executive_judiciary",
+          "name": "Executive and Judiciary",
+          "subtopics": [
+            "Structure",
+            "Organization",
+            "Functioning",
+            "Ministries",
+            "Departments"
+          ]
+        },
+        {
+          "id": "mains.gs2.pressure_groups",
+          "name": "Pressure Groups and Formal/Informal Associations"
+        },
+        {
+          "id": "mains.gs2.elections",
+          "name": "Representation of People’s Act"
+        },
+        {
+          "id": "mains.gs2.constitutional_bodies",
+          "name": "Constitutional Bodies",
+          "subtopics": [
+            "Appointments",
+            "Powers",
+            "Functions",
+            "Responsibilities"
+          ]
+        },
+        {
+          "id": "mains.gs2.statutory_bodies",
+          "name": "Statutory, Regulatory and Quasi-Judicial Bodies"
+        },
+        {
+          "id": "mains.gs2.government_policies",
+          "name": "Government Policies and Interventions",
+          "subtopics": [
+            "Design",
+            "Implementation",
+            "Development sectors"
+          ]
+        },
+        {
+          "id": "mains.gs2.development_processes",
+          "name": "Development Processes",
+          "subtopics": [
+            "NGOs",
+            "SHGs",
+            "Associations",
+            "Donors",
+            "Charities",
+            "Stakeholders"
+          ]
+        },
+        {
+          "id": "mains.gs2.welfare",
+          "name": "Welfare Schemes and Vulnerable Sections",
+          "subtopics": [
+            "Schemes",
+            "Performance",
+            "Protection laws",
+            "Institutions",
+            "Bodies"
+          ]
+        },
+        {
+          "id": "mains.gs2.social_sector",
+          "name": "Social Sector",
+          "subtopics": [
+            "Health",
+            "Education",
+            "Human Resources",
+            "Poverty",
+            "Hunger"
+          ]
+        },
+        {
+          "id": "mains.gs2.governance",
+          "name": "Governance",
+          "subtopics": [
+            "Transparency",
+            "Accountability",
+            "e-Governance",
+            "Citizen Charters",
+            "Civil Services"
+          ]
+        },
+        {
+          "id": "mains.gs2.ir_neighbourhood",
+          "name": "India and Neighbourhood Relations"
+        },
+        {
+          "id": "mains.gs2.ir_groupings",
+          "name": "Bilateral, Regional and Global Groupings and Agreements"
+        },
+        {
+          "id": "mains.gs2.ir_foreign_politics",
+          "name": "Foreign Policies and Politics affecting India",
+          "subtopics": [
+            "Developed countries",
+            "Developing countries",
+            "Indian interests",
+            "Diaspora"
+          ]
+        },
+        {
+          "id": "mains.gs2.ir_institutions",
+          "name": "International Institutions, Agencies and Fora",
+          "subtopics": [
+            "Structure",
+            "Mandate"
+          ]
+        }
+      ]
+    },
+    "gs3": {
+      "id": "mains.gs3",
+      "name": "Technology, Economic Development, Bio-diversity, Environment, Security and Disaster Management",
+      "topics": [
+        {
+          "id": "mains.gs3.economy",
+          "name": "Indian Economy",
+          "subtopics": [
+            "Planning",
+            "Resource mobilization",
+            "Growth",
+            "Development",
+            "Employment",
+            "Inclusive growth",
+            "Budgeting"
+          ]
+        },
+        {
+          "id": "mains.gs3.agriculture",
+          "name": "Agriculture",
+          "subtopics": [
+            "Major crops",
+            "Cropping patterns",
+            "Irrigation",
+            "Storage",
+            "Transport",
+            "Marketing",
+            "e-technology",
+            "Subsidies",
+            "MSP",
+            "PDS",
+            "Buffer stocks",
+            "Food security",
+            "Technology missions",
+            "Animal rearing",
+            "Food processing",
+            "Land reforms"
+          ]
+        },
+        {
+          "id": "mains.gs3.industry",
+          "name": "Industry and Liberalization",
+          "subtopics": [
+            "Liberalization",
+            "Industrial policy",
+            "Industrial growth"
+          ]
+        },
+        {
+          "id": "mains.gs3.infrastructure",
+          "name": "Infrastructure",
+          "subtopics": [
+            "Energy",
+            "Ports",
+            "Roads",
+            "Airports",
+            "Railways"
+          ]
+        },
+        {
+          "id": "mains.gs3.investment",
+          "name": "Investment Models"
+        },
+        {
+          "id": "mains.gs3.science_technology",
+          "name": "Science and Technology",
+          "subtopics": [
+            "Applications",
+            "Everyday life",
+            "Indian achievements",
+            "Indigenization",
+            "IT",
+            "Space",
+            "Computers",
+            "Robotics",
+            "Nanotechnology",
+            "Biotechnology",
+            "IPR"
+          ]
+        },
+        {
+          "id": "mains.gs3.environment",
+          "name": "Environment",
+          "subtopics": [
+            "Conservation",
+            "Pollution",
+            "Degradation",
+            "EIA",
+            "Biodiversity",
+            "Climate"
+          ]
+        },
+        {
+          "id": "mains.gs3.disaster",
+          "name": "Disaster Management"
+        },
+        {
+          "id": "mains.gs3.extremism",
+          "name": "Extremism and Development Linkages"
+        },
+        {
+          "id": "mains.gs3.internal_security",
+          "name": "Internal Security",
+          "subtopics": [
+            "External and non-state actors",
+            "Communication networks",
+            "Media/social networks",
+            "Cybersecurity",
+            "Money laundering",
+            "Border security",
+            "Organized crime",
+            "Terrorism",
+            "Security forces and agencies"
+          ]
+        }
+      ]
+    },
+    "gs4": {
+      "id": "mains.gs4",
+      "name": "Ethics, Integrity and Aptitude",
+      "topics": [
+        {
+          "id": "mains.gs4.ethics_human_interface",
+          "name": "Ethics and Human Interface",
+          "subtopics": [
+            "Essence",
+            "Determinants",
+            "Consequences",
+            "Dimensions",
+            "Private/public relationships",
+            "Human values",
+            "Leaders/reformers/administrators",
+            "Family/society/education"
+          ]
+        },
+        {
+          "id": "mains.gs4.attitude",
+          "name": "Attitude",
+          "subtopics": [
+            "Content",
+            "Structure",
+            "Function",
+            "Thought and behaviour",
+            "Moral attitudes",
+            "Political attitudes",
+            "Social influence",
+            "Persuasion"
+          ]
+        },
+        {
+          "id": "mains.gs4.civil_service_values",
+          "name": "Aptitude and Foundational Values",
+          "subtopics": [
+            "Integrity",
+            "Impartiality",
+            "Non-partisanship",
+            "Objectivity",
+            "Dedication",
+            "Empathy",
+            "Tolerance",
+            "Compassion"
+          ]
+        },
+        {
+          "id": "mains.gs4.emotional_intelligence",
+          "name": "Emotional Intelligence",
+          "subtopics": [
+            "Concepts",
+            "Utility",
+            "Administration",
+            "Governance"
+          ]
+        },
+        {
+          "id": "mains.gs4.thinkers",
+          "name": "Moral Thinkers and Philosophers",
+          "subtopics": [
+            "India",
+            "World"
+          ]
+        },
+        {
+          "id": "mains.gs4.public_service_ethics",
+          "name": "Public/Civil Service Values and Ethics",
+          "subtopics": [
+            "Status/problems",
+            "Ethical concerns",
+            "Dilemmas",
+            "Laws/rules/regulations",
+            "Conscience",
+            "Accountability",
+            "Ethical governance",
+            "International relations/funding",
+            "Corporate governance"
+          ]
+        },
+        {
+          "id": "mains.gs4.probity",
+          "name": "Probity in Governance",
+          "subtopics": [
+            "Public service",
+            "Philosophical basis",
+            "Information sharing",
+            "Transparency",
+            "RTI",
+            "Codes of Ethics",
+            "Codes of Conduct",
+            "Citizen Charters",
+            "Work culture",
+            "Service delivery",
+            "Public funds",
+            "Corruption"
+          ]
+        },
+        {
+          "id": "mains.gs4.case_studies",
+          "name": "Case Studies"
+        }
+      ]
+    }
+  },
+  "economics_optional": {
+    "paper1": {
+      "id": "optional.economics.paper1",
+      "topics": [
+        {
+          "id": "optional.economics.p1.micro",
+          "name": "Advanced Micro Economics",
+          "subtopics": [
+            "Marshallian price determination",
+            "Walrasian price determination",
+            "Ricardo distribution",
+            "Kaldor distribution",
+            "Kalecki distribution",
+            "Monopolistic competition",
+            "Duopoly",
+            "Oligopoly",
+            "Pareto welfare",
+            "Hicks welfare",
+            "Scitovsky welfare",
+            "Arrow Impossibility Theorem",
+            "Sen Social Welfare Function"
+          ]
+        },
+        {
+          "id": "optional.economics.p1.macro",
+          "name": "Advanced Macro Economics",
+          "subtopics": [
+            "Classical employment/income/interest",
+            "Keynes",
+            "IS-LM",
+            "Neo-classical synthesis",
+            "New Classical",
+            "Interest rate theories",
+            "Interest rate structure"
+          ]
+        },
+        {
+          "id": "optional.economics.p1.money_banking_finance",
+          "name": "Money, Banking and Finance",
+          "subtopics": [
+            "Demand for money",
+            "Supply of money",
+            "Money multiplier",
+            "Quantity Theory—Fisher",
+            "Quantity Theory—Pigou",
+            "Quantity Theory—Friedman",
+            "Keynes demand for money",
+            "Monetary management—closed economy",
+            "Monetary management—open economy",
+            "Central bank and Treasury",
+            "Money-supply growth ceiling",
+            "Public finance role",
+            "Stabilization",
+            "Allocation",
+            "Distribution",
+            "Development",
+            "Government revenue",
+            "Taxes",
+            "Subsidies",
+            "Tax incidence",
+            "Tax effects",
+            "Limits to taxation",
+            "Loans",
+            "Crowding out",
+            "Limits to borrowing",
+            "Public expenditure"
+          ]
+        },
+        {
+          "id": "optional.economics.p1.international",
+          "name": "International Economics",
+          "subtopics": [
+            "Old trade theories",
+            "New trade theories",
+            "Comparative advantage",
+            "Terms of trade",
+            "Offer curve",
+            "Product cycle",
+            "Strategic trade",
+            "Trade and growth",
+            "Underdevelopment in open economy",
+            "Tariff",
+            "Quota",
+            "BOP adjustment",
+            "Price vs income adjustment",
+            "Fixed exchange rates",
+            "Policy mix",
+            "Capital mobility",
+            "Floating rates",
+            "Currency boards",
+            "Trade policy and developing countries",
+            "BOP policy coordination",
+            "Speculative attacks",
+            "Trade blocs",
+            "Monetary unions",
+            "WTO",
+            "TRIMS",
+            "TRIPS",
+            "Domestic measures",
+            "WTO rounds"
+          ]
+        },
+        {
+          "id": "optional.economics.p1.growth_development",
+          "name": "Growth and Development",
+          "subtopics": [
+            "Harrod",
+            "Lewis",
+            "Balanced growth",
+            "Unbalanced growth",
+            "Human capital",
+            "R&D and growth",
+            "Myrdal",
+            "Kuznets",
+            "Structural change",
+            "Agriculture and development",
+            "Trade/investment and development",
+            "Multinationals",
+            "Planning and development",
+            "Markets vs planning",
+            "PPP",
+            "Human development indices",
+            "Basic needs",
+            "Sustainability",
+            "Renewable resources",
+            "Non-renewable resources",
+            "Environmental degradation",
+            "Intergenerational equity"
+          ]
+        }
+      ]
+    },
+    "paper2": {
+      "id": "optional.economics.paper2",
+      "topics": [
+        {
+          "id": "optional.economics.p2.pre_independence",
+          "name": "Indian Economy in Pre-Independence Era",
+          "subtopics": [
+            "Land system",
+            "Commercialization of agriculture",
+            "Drain theory",
+            "Laissez-faire theory and critique",
+            "Jute",
+            "Cotton",
+            "Railways",
+            "Money",
+            "Credit"
+          ]
+        },
+        {
+          "id": "optional.economics.p2.pre_liberalization",
+          "name": "Indian Economy after Independence: Pre-Liberalization",
+          "subtopics": [
+            "Vakil",
+            "Gadgil",
+            "V.K.R.V. Rao",
+            "Land reforms",
+            "Land tenure",
+            "Green Revolution",
+            "Agricultural capital formation",
+            "Industry composition",
+            "Industry growth",
+            "Public sector",
+            "Private sector",
+            "Small-scale industries",
+            "Cottage industries",
+            "National income",
+            "Per-capita income",
+            "Sectoral composition",
+            "Distribution",
+            "Poverty",
+            "Inequality"
+          ]
+        },
+        {
+          "id": "optional.economics.p2.post_liberalization",
+          "name": "Post-Liberalization Indian Economy",
+          "subtopics": [
+            "Economic reforms and agriculture",
+            "Agriculture and WTO",
+            "Food processing",
+            "Subsidies",
+            "Agricultural prices",
+            "PDS",
+            "Public expenditure and agricultural growth",
+            "Industrialization",
+            "Privatization",
+            "Disinvestment",
+            "FDI",
+            "Multinationals",
+            "TRIPS",
+            "TRIMS",
+            "GATS",
+            "EXIM policy",
+            "Exchange-rate regime",
+            "Convertibility",
+            "Capital account convertibility",
+            "FRBM",
+            "Finance Commission",
+            "Fiscal federalism",
+            "Fiscal consolidation",
+            "RBI under new regime",
+            "Planning",
+            "Markets and planning",
+            "Decentralized planning",
+            "73rd/74th Amendments",
+            "Employment",
+            "Rural wages",
+            "Employment generation",
+            "Poverty alleviation",
+            "Rural employment guarantee"
+          ]
+        }
+      ]
+    }
+  }
+}
