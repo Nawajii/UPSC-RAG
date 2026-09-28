@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UPSC-RAG Record",
+  "type": "object",
+  "required": ["id", "record_type", "status", "title"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$"},
+    "record_type": {
+      "type": "string",
+      "enum": ["source", "claim", "pyq", "current_affair", "topic", "relation", "document"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["VERIFIED", "PROVISIONAL", "CONFLICTING", "OUTDATED", "REQUIRES_REVIEW"]
+    },
+    "title": {"type": "string"},
+    "description": {"type": "string"},
+    "syllabus_ids": {"type": "array", "items": {"type": "string"}},
+    "source_ids": {"type": "array", "items": {"type": "string"}},
+    "source_of_knowledge_ids": {"type": "array", "items": {"type": "string"}},
+    "source_of_truth_ids": {"type": "array", "items": {"type": "string"}},
+    "pyq_ids": {"type": "array", "items": {"type": "string"}},
+    "current_affair_ids": {"type": "array", "items": {"type": "string"}},
+    "related_ids": {"type": "array", "items": {"type": "string"}},
+    "valid_from": {"type": "string", "format": "date"},
+    "valid_to": {"type": ["string", "null"], "format": "date"},
+    "last_verified": {"type": ["string", "null"], "format": "date"},
+    "notes": {"type": "string"}
+  },
+  "additionalProperties": true
+}
