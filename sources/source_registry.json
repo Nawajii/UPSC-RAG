@@ -18,10 +18,11 @@
         "examinations"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UPSC-STATISTICS",
@@ -36,10 +37,11 @@
         "examinations"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UPSC-LAWS_NOTIFICATIONS",
@@ -54,10 +56,11 @@
         "examinations"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UPSC-POLICY_PROGRAMMES",
@@ -72,10 +75,11 @@
         "examinations"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UPSC-CURRENT_UPDATES",
@@ -90,10 +94,11 @@
         "examinations"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-GOVERNMENT-WEB-DIRECTORY-REPORTS",
@@ -106,10 +111,11 @@
         "government-source discovery"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-GOVERNMENT-WEB-DIRECTORY-STATISTICS",
@@ -122,10 +128,11 @@
         "government-source discovery"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-GOVERNMENT-WEB-DIRECTORY-LAWS_NOTIFICATIONS",
@@ -138,10 +145,11 @@
         "government-source discovery"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-GOVERNMENT-WEB-DIRECTORY-POLICY_PROGRAMMES",
@@ -154,10 +162,11 @@
         "government-source discovery"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-GOVERNMENT-WEB-DIRECTORY-CURRENT_UPDATES",
@@ -170,10 +179,11 @@
         "government-source discovery"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-PORTAL-REPORTS",
@@ -188,10 +198,11 @@
         "services"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-PORTAL-STATISTICS",
@@ -206,10 +217,11 @@
         "services"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-PORTAL-LAWS_NOTIFICATIONS",
@@ -224,10 +236,11 @@
         "services"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-PORTAL-POLICY_PROGRAMMES",
@@ -242,10 +255,11 @@
         "services"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-PORTAL-CURRENT_UPDATES",
@@ -260,10 +274,11 @@
         "services"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESIDENT-OF-INDIA-REPORTS",
@@ -277,10 +292,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESIDENT-OF-INDIA-STATISTICS",
@@ -294,10 +310,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESIDENT-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -311,10 +328,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESIDENT-OF-INDIA-POLICY_PROGRAMMES",
@@ -328,10 +346,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESIDENT-OF-INDIA-CURRENT_UPDATES",
@@ -345,10 +364,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-VICE-PRESIDENT-OF-INDIA-REPORTS",
@@ -362,10 +382,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-VICE-PRESIDENT-OF-INDIA-STATISTICS",
@@ -379,10 +400,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-VICE-PRESIDENT-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -396,10 +418,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-VICE-PRESIDENT-OF-INDIA-POLICY_PROGRAMMES",
@@ -413,10 +436,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-VICE-PRESIDENT-OF-INDIA-CURRENT_UPDATES",
@@ -430,10 +454,11 @@
         "executive"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRIME-MINISTER-S-OFFICE-REPORTS",
@@ -447,10 +472,11 @@
         "policies"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRIME-MINISTER-S-OFFICE-STATISTICS",
@@ -464,10 +490,11 @@
         "policies"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRIME-MINISTER-S-OFFICE-LAWS_NOTIFICATIONS",
@@ -481,10 +508,11 @@
         "policies"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRIME-MINISTER-S-OFFICE-POLICY_PROGRAMMES",
@@ -498,10 +526,11 @@
         "policies"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRIME-MINISTER-S-OFFICE-CURRENT_UPDATES",
@@ -515,10 +544,11 @@
         "policies"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CABINET-SECRETARIAT-REPORTS",
@@ -532,10 +562,11 @@
         "governance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CABINET-SECRETARIAT-STATISTICS",
@@ -549,10 +580,11 @@
         "governance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CABINET-SECRETARIAT-LAWS_NOTIFICATIONS",
@@ -566,10 +598,11 @@
         "governance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CABINET-SECRETARIAT-POLICY_PROGRAMMES",
@@ -583,10 +616,11 @@
         "governance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CABINET-SECRETARIAT-CURRENT_UPDATES",
@@ -600,10 +634,11 @@
         "governance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PARLIAMENT-OF-INDIA-REPORTS",
@@ -618,10 +653,11 @@
         "committees"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PARLIAMENT-OF-INDIA-STATISTICS",
@@ -636,10 +672,11 @@
         "committees"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PARLIAMENT-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -654,10 +691,11 @@
         "committees"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PARLIAMENT-OF-INDIA-POLICY_PROGRAMMES",
@@ -672,10 +710,11 @@
         "committees"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PARLIAMENT-OF-INDIA-CURRENT_UPDATES",
@@ -690,10 +729,11 @@
         "committees"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SUPREME-COURT-OF-INDIA-REPORTS",
@@ -707,10 +747,11 @@
         "constitutional law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SUPREME-COURT-OF-INDIA-STATISTICS",
@@ -724,10 +765,11 @@
         "constitutional law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SUPREME-COURT-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -741,10 +783,11 @@
         "constitutional law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SUPREME-COURT-OF-INDIA-POLICY_PROGRAMMES",
@@ -758,10 +801,11 @@
         "constitutional law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SUPREME-COURT-OF-INDIA-CURRENT_UPDATES",
@@ -775,10 +819,11 @@
         "constitutional law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ELECTION-COMMISSION-OF-INDIA-REPORTS",
@@ -793,10 +838,11 @@
         "democracy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ELECTION-COMMISSION-OF-INDIA-STATISTICS",
@@ -811,10 +857,11 @@
         "democracy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ELECTION-COMMISSION-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -829,10 +876,11 @@
         "democracy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ELECTION-COMMISSION-OF-INDIA-POLICY_PROGRAMMES",
@@ -847,10 +895,11 @@
         "democracy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ELECTION-COMMISSION-OF-INDIA-CURRENT_UPDATES",
@@ -865,10 +914,11 @@
         "democracy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-COMPTROLLER-AND-AUDITOR-GENERAL-REPORTS",
@@ -882,10 +932,11 @@
         "public finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-COMPTROLLER-AND-AUDITOR-GENERAL-STATISTICS",
@@ -899,10 +950,11 @@
         "public finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-COMPTROLLER-AND-AUDITOR-GENERAL-LAWS_NOTIFICATIONS",
@@ -916,10 +968,11 @@
         "public finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-COMPTROLLER-AND-AUDITOR-GENERAL-POLICY_PROGRAMMES",
@@ -933,10 +986,11 @@
         "public finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-COMPTROLLER-AND-AUDITOR-GENERAL-CURRENT_UPDATES",
@@ -950,10 +1004,11 @@
         "public finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FINANCE-COMMISSION-REPORTS",
@@ -1053,10 +1108,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NITI-AAYOG-STATISTICS",
@@ -1071,10 +1127,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NITI-AAYOG-LAWS_NOTIFICATIONS",
@@ -1089,10 +1146,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NITI-AAYOG-POLICY_PROGRAMMES",
@@ -1107,10 +1165,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NITI-AAYOG-CURRENT_UPDATES",
@@ -1125,10 +1184,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-HUMAN-RIGHTS-COMMISSION-REPORTS",
@@ -2072,10 +2132,11 @@
         "federalism"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-HOME-AFFAIRS-STATISTICS",
@@ -2089,10 +2150,11 @@
         "federalism"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-HOME-AFFAIRS-LAWS_NOTIFICATIONS",
@@ -2106,10 +2168,11 @@
         "federalism"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-HOME-AFFAIRS-POLICY_PROGRAMMES",
@@ -2123,10 +2186,11 @@
         "federalism"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-HOME-AFFAIRS-CURRENT_UPDATES",
@@ -2140,10 +2204,11 @@
         "federalism"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-DEFENCE-REPORTS",
@@ -2242,10 +2307,11 @@
         "foreign policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-EXTERNAL-AFFAIRS-STATISTICS",
@@ -2259,10 +2325,11 @@
         "foreign policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-EXTERNAL-AFFAIRS-LAWS_NOTIFICATIONS",
@@ -2276,10 +2343,11 @@
         "foreign policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-EXTERNAL-AFFAIRS-POLICY_PROGRAMMES",
@@ -2293,10 +2361,11 @@
         "foreign policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-EXTERNAL-AFFAIRS-CURRENT_UPDATES",
@@ -2310,10 +2379,11 @@
         "foreign policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-FINANCE-REPORTS",
@@ -2413,10 +2483,11 @@
         "external finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-ECONOMIC-AFFAIRS-STATISTICS",
@@ -2431,10 +2502,11 @@
         "external finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-ECONOMIC-AFFAIRS-LAWS_NOTIFICATIONS",
@@ -2449,10 +2521,11 @@
         "external finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-ECONOMIC-AFFAIRS-POLICY_PROGRAMMES",
@@ -2467,10 +2540,11 @@
         "external finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-ECONOMIC-AFFAIRS-CURRENT_UPDATES",
@@ -2485,10 +2559,11 @@
         "external finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-EXPENDITURE-REPORTS",
@@ -2843,10 +2918,11 @@
         "finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RESERVE-BANK-OF-INDIA-STATISTICS",
@@ -2861,10 +2937,11 @@
         "finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RESERVE-BANK-OF-INDIA-LAWS_NOTIFICATIONS",
@@ -2879,10 +2956,11 @@
         "finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RESERVE-BANK-OF-INDIA-POLICY_PROGRAMMES",
@@ -2897,10 +2975,11 @@
         "finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RESERVE-BANK-OF-INDIA-CURRENT_UPDATES",
@@ -2915,10 +2994,11 @@
         "finance"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-SECURITIES-AND-EXCHANGE-BOARD-OF-INDIA-REPORTS",
@@ -3357,10 +3437,11 @@
         "national income"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-STATISTICAL-OFFICE-STATISTICS",
@@ -3374,10 +3455,11 @@
         "national income"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-STATISTICAL-OFFICE-LAWS_NOTIFICATIONS",
@@ -3391,10 +3473,11 @@
         "national income"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-STATISTICAL-OFFICE-POLICY_PROGRAMMES",
@@ -3408,10 +3491,11 @@
         "national income"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-STATISTICAL-OFFICE-CURRENT_UPDATES",
@@ -3425,10 +3509,11 @@
         "national income"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-STATISTICS-AND-PROGRAMME-IMPLEMENTATION-REPORTS",
@@ -4212,10 +4297,11 @@
         "food security"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-FOOD-AND-PUBLIC-DISTRIBUTION-STATISTICS",
@@ -4229,10 +4315,11 @@
         "food security"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-FOOD-AND-PUBLIC-DISTRIBUTION-LAWS_NOTIFICATIONS",
@@ -4246,10 +4333,11 @@
         "food security"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-FOOD-AND-PUBLIC-DISTRIBUTION-POLICY_PROGRAMMES",
@@ -4263,10 +4351,11 @@
         "food security"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-FOOD-AND-PUBLIC-DISTRIBUTION-CURRENT_UPDATES",
@@ -4280,10 +4369,11 @@
         "food security"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FOOD-SAFETY-AND-STANDARDS-AUTHORITY-OF-INDIA-REPORTS",
@@ -4547,10 +4637,11 @@
         "poverty"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-STATISTICS",
@@ -4564,10 +4655,11 @@
         "poverty"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-LAWS_NOTIFICATIONS",
@@ -4581,10 +4673,11 @@
         "poverty"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-POLICY_PROGRAMMES",
@@ -4598,10 +4691,11 @@
         "poverty"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-CURRENT_UPDATES",
@@ -4615,10 +4709,11 @@
         "poverty"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DEPARTMENT-OF-LAND-RESOURCES-REPORTS",
@@ -5723,10 +5818,11 @@
         "biodiversity"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE-STATISTICS",
@@ -5741,10 +5837,11 @@
         "biodiversity"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE-LAWS_NOTIFICATIONS",
@@ -5759,10 +5856,11 @@
         "biodiversity"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE-POLICY_PROGRAMMES",
@@ -5777,10 +5875,11 @@
         "biodiversity"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ENVIRONMENT-FOREST-AND-CLIMATE-CHANGE-CURRENT_UPDATES",
@@ -5795,10 +5894,11 @@
         "biodiversity"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CENTRAL-POLLUTION-CONTROL-BOARD-REPORTS",
@@ -7251,10 +7351,11 @@
         "rural development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-STATISTICS",
@@ -7267,10 +7368,11 @@
         "rural development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-LAWS_NOTIFICATIONS",
@@ -7283,10 +7385,11 @@
         "rural development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-POLICY_PROGRAMMES",
@@ -7299,10 +7402,11 @@
         "rural development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-RURAL-DEVELOPMENT-CURRENT_UPDATES",
@@ -7315,10 +7419,11 @@
         "rural development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-JAL-SHAKTI-REPORTS",
@@ -8177,10 +8282,11 @@
         "transport"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ROAD-TRANSPORT-AND-HIGHWAYS-STATISTICS",
@@ -8194,10 +8300,11 @@
         "transport"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ROAD-TRANSPORT-AND-HIGHWAYS-LAWS_NOTIFICATIONS",
@@ -8211,10 +8318,11 @@
         "transport"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ROAD-TRANSPORT-AND-HIGHWAYS-POLICY_PROGRAMMES",
@@ -8228,10 +8336,11 @@
         "transport"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-ROAD-TRANSPORT-AND-HIGHWAYS-CURRENT_UPDATES",
@@ -8245,10 +8354,11 @@
         "transport"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MINISTRY-OF-PORTS-SHIPPING-AND-WATERWAYS-REPORTS",
@@ -9092,10 +9202,11 @@
         "current affairs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESS-INFORMATION-BUREAU-STATISTICS",
@@ -9109,10 +9220,11 @@
         "current affairs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESS-INFORMATION-BUREAU-LAWS_NOTIFICATIONS",
@@ -9126,10 +9238,11 @@
         "current affairs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESS-INFORMATION-BUREAU-POLICY_PROGRAMMES",
@@ -9143,10 +9256,11 @@
         "current affairs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-PRESS-INFORMATION-BUREAU-CURRENT_UPDATES",
@@ -9160,10 +9274,11 @@
         "current affairs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MYGOV-REPORTS",
@@ -9263,10 +9378,11 @@
         "legislation"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-CODE-STATISTICS",
@@ -9281,10 +9397,11 @@
         "legislation"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-CODE-LAWS_NOTIFICATIONS",
@@ -9299,10 +9416,11 @@
         "legislation"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-CODE-POLICY_PROGRAMMES",
@@ -9317,10 +9435,11 @@
         "legislation"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INDIA-CODE-CURRENT_UPDATES",
@@ -9335,10 +9454,11 @@
         "legislation"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-GAZETTE-OF-INDIA-REPORTS",
@@ -9436,10 +9556,11 @@
         "government datasets"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DATA-GOV-IN-STATISTICS",
@@ -9452,10 +9573,11 @@
         "government datasets"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DATA-GOV-IN-LAWS_NOTIFICATIONS",
@@ -9468,10 +9590,11 @@
         "government datasets"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DATA-GOV-IN-POLICY_PROGRAMMES",
@@ -9484,10 +9607,11 @@
         "government datasets"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-DATA-GOV-IN-CURRENT_UPDATES",
@@ -9500,10 +9624,11 @@
         "government datasets"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-NATIONAL-ARCHIVES-OF-INDIA-REPORTS",
@@ -11667,10 +11792,11 @@
         "SDGs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNITED-NATIONS-STATISTICS",
@@ -11684,10 +11810,11 @@
         "SDGs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNITED-NATIONS-LAWS_NOTIFICATIONS",
@@ -11701,10 +11828,11 @@
         "SDGs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNITED-NATIONS-POLICY_PROGRAMMES",
@@ -11718,10 +11846,11 @@
         "SDGs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNITED-NATIONS-CURRENT_UPDATES",
@@ -11735,10 +11864,11 @@
         "SDGs"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNDP-REPORTS",
@@ -11752,10 +11882,11 @@
         "HDI"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNDP-STATISTICS",
@@ -11769,10 +11900,11 @@
         "HDI"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNDP-LAWS_NOTIFICATIONS",
@@ -11786,10 +11918,11 @@
         "HDI"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNDP-POLICY_PROGRAMMES",
@@ -11803,10 +11936,11 @@
         "HDI"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNDP-CURRENT_UPDATES",
@@ -11820,10 +11954,11 @@
         "HDI"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-WORLD-BANK-REPORTS",
@@ -11837,10 +11972,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-WORLD-BANK-STATISTICS",
@@ -11854,10 +11990,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-WORLD-BANK-LAWS_NOTIFICATIONS",
@@ -11871,10 +12008,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-WORLD-BANK-POLICY_PROGRAMMES",
@@ -11888,10 +12026,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-WORLD-BANK-CURRENT_UPDATES",
@@ -11905,10 +12044,11 @@
         "economy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-MONETARY-FUND-REPORTS",
@@ -12246,10 +12386,11 @@
         "climate"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNFCCC-STATISTICS",
@@ -12262,10 +12403,11 @@
         "climate"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNFCCC-LAWS_NOTIFICATIONS",
@@ -12278,10 +12420,11 @@
         "climate"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNFCCC-POLICY_PROGRAMMES",
@@ -12294,10 +12437,11 @@
         "climate"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNFCCC-CURRENT_UPDATES",
@@ -12310,10 +12454,11 @@
         "climate"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNESCO-REPORTS",
@@ -12327,10 +12472,11 @@
         "education"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNESCO-STATISTICS",
@@ -12344,10 +12490,11 @@
         "education"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNESCO-LAWS_NOTIFICATIONS",
@@ -12361,10 +12508,11 @@
         "education"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNESCO-POLICY_PROGRAMMES",
@@ -12378,10 +12526,11 @@
         "education"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNESCO-CURRENT_UPDATES",
@@ -12395,10 +12544,11 @@
         "education"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FAO-REPORTS",
@@ -12412,10 +12562,11 @@
         "food"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FAO-STATISTICS",
@@ -12429,10 +12580,11 @@
         "food"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FAO-LAWS_NOTIFICATIONS",
@@ -12446,10 +12598,11 @@
         "food"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FAO-POLICY_PROGRAMMES",
@@ -12463,10 +12616,11 @@
         "food"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-FAO-CURRENT_UPDATES",
@@ -12480,10 +12634,11 @@
         "food"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ILO-REPORTS",
@@ -12496,10 +12651,11 @@
         "labour"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ILO-STATISTICS",
@@ -12512,10 +12668,11 @@
         "labour"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ILO-LAWS_NOTIFICATIONS",
@@ -12528,10 +12685,11 @@
         "labour"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ILO-POLICY_PROGRAMMES",
@@ -12544,10 +12702,11 @@
         "labour"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ILO-CURRENT_UPDATES",
@@ -12560,10 +12719,11 @@
         "labour"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNICEF-REPORTS",
@@ -12577,10 +12737,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNICEF-STATISTICS",
@@ -12594,10 +12755,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNICEF-LAWS_NOTIFICATIONS",
@@ -12611,10 +12773,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNICEF-POLICY_PROGRAMMES",
@@ -12628,10 +12791,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNICEF-CURRENT_UPDATES",
@@ -12645,10 +12809,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNCTAD-REPORTS",
@@ -12662,10 +12827,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNCTAD-STATISTICS",
@@ -12679,10 +12845,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNCTAD-LAWS_NOTIFICATIONS",
@@ -12696,10 +12863,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNCTAD-POLICY_PROGRAMMES",
@@ -12713,10 +12881,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-UNCTAD-CURRENT_UPDATES",
@@ -12730,10 +12899,11 @@
         "development"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-OECD-REPORTS",
@@ -12747,10 +12917,11 @@
         "policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-OECD-STATISTICS",
@@ -12764,10 +12935,11 @@
         "policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-OECD-LAWS_NOTIFICATIONS",
@@ -12781,10 +12953,11 @@
         "policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-OECD-POLICY_PROGRAMMES",
@@ -12798,10 +12971,11 @@
         "policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-OECD-CURRENT_UPDATES",
@@ -12815,10 +12989,11 @@
         "policy"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ADB-REPORTS",
@@ -12832,10 +13007,11 @@
         "Asia"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ADB-STATISTICS",
@@ -12849,10 +13025,11 @@
         "Asia"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ADB-LAWS_NOTIFICATIONS",
@@ -12866,10 +13043,11 @@
         "Asia"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ADB-POLICY_PROGRAMMES",
@@ -12883,10 +13061,11 @@
         "Asia"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-ADB-CURRENT_UPDATES",
@@ -12900,10 +13079,11 @@
         "Asia"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-AIIB-REPORTS",
@@ -14066,10 +14246,11 @@
         "international law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-COURT-OF-JUSTICE-STATISTICS",
@@ -14082,10 +14263,11 @@
         "international law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-COURT-OF-JUSTICE-LAWS_NOTIFICATIONS",
@@ -14098,10 +14280,11 @@
         "international law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-COURT-OF-JUSTICE-POLICY_PROGRAMMES",
@@ -14114,10 +14297,11 @@
         "international law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-COURT-OF-JUSTICE-CURRENT_UPDATES",
@@ -14130,10 +14314,11 @@
         "international law"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-INTERNATIONAL-CRIMINAL-COURT-REPORTS",
@@ -14466,10 +14651,11 @@
         "wetlands"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RAMSAR-CONVENTION-STATISTICS",
@@ -14482,10 +14668,11 @@
         "wetlands"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RAMSAR-CONVENTION-LAWS_NOTIFICATIONS",
@@ -14498,10 +14685,11 @@
         "wetlands"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RAMSAR-CONVENTION-POLICY_PROGRAMMES",
@@ -14514,10 +14702,11 @@
         "wetlands"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-RAMSAR-CONVENTION-CURRENT_UPDATES",
@@ -14530,10 +14719,11 @@
         "wetlands"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CITES-REPORTS",
@@ -14546,10 +14736,11 @@
         "wildlife"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CITES-STATISTICS",
@@ -14562,10 +14753,11 @@
         "wildlife"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CITES-LAWS_NOTIFICATIONS",
@@ -14578,10 +14770,11 @@
         "wildlife"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CITES-POLICY_PROGRAMMES",
@@ -14594,10 +14787,11 @@
         "wildlife"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-CITES-CURRENT_UPDATES",
@@ -14610,10 +14804,11 @@
         "wildlife"
       ],
       "tier": 1,
-      "status": "VERIFIED",
-      "verification_method": "Official site/direct authoritative source checked during registry build",
+      "status": "INSTITUTION_VERIFIED",
+      "verification_method": "Official institution/domain established from authoritative web evidence during registry build; specific source-family page still requires document-level verification.",
       "current_affairs_start": "2026-05",
-      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source."
+      "notes": "Source family record. Retrieval should target the specific current document/dataset within this official source.",
+      "source_page_verification": "REQUIRES_REVIEW"
     },
     {
       "source_id": "SRC-MONTREAL-PROTOCOL-OZONE-SECRETARIAT-REPORTS",
@@ -14703,9 +14898,10 @@
   ],
   "summary": {
     "total_records": 875,
-    "verified_records": 195,
     "requires_review": 680,
     "source_institutions": 175,
-    "source_families": 5
+    "source_families": 5,
+    "institution_verified_records": 195,
+    "source_page_requires_review": 195
   }
 }
